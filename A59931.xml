@@ -1,0 +1,732 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England's interest, or, A discipline for seamen wherein is proposed a sure method for raising qualified seamen for the well manning Their Majesties fleet on all occasions : also, a method wherby seamen will be obliged mutually to relieve each other on board the men of war yearly or thereabout ... : likewise is shewed the advantages which by these methods will accrue to the nation in general and in particular to the merchants and seamen ... / by George St. Lo.</title>
+            <author>St. Lo, George, d. 1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 98 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59931</idno>
+            <idno type="STC">Wing S340</idno>
+            <idno type="STC">ESTC R26996</idno>
+            <idno type="EEBO-CITATION">09602536</idno>
+            <idno type="OCLC">ocm 09602536</idno>
+            <idno type="VID">43797</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43797)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England's interest, or, A discipline for seamen wherein is proposed a sure method for raising qualified seamen for the well manning Their Majesties fleet on all occasions : also, a method wherby seamen will be obliged mutually to relieve each other on board the men of war yearly or thereabout ... : likewise is shewed the advantages which by these methods will accrue to the nation in general and in particular to the merchants and seamen ... / by George St. Lo.</title>
+                  <author>St. Lo, George, d. 1718.</author>
+               </titleStmt>
+               <extent>51, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavell,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy.</term>
+               <term>Sailors --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43797:1"/>
+            <p> 
+               <hi>ENGLAND</hi>'s INTEREST; Or, a DISCIPLINE FOR SEAMEN: Wherein is Propoſed, A Sure Method for Raiſing Qualified SEA<g ref="char:EOLhyphen"/>MEN, for the well Manning Their Majeſties Fleet on all Occaſions. ALSO A Method whereby Seamen will be obliged mutually to Relieve each other on Board the Men of War Yearly, or thereabout; Except where any Seaman by his own voluntary Conſent ſhall be willing to ſtay longer. LIKEWISE Is ſhewed the Advantages, which by theſe Methods will accrue to the Nation in General, and in Particular to the Merchants and Seamen: For hereby the Wages now given in Merchant-Ships will be brought lower, and every Seamen will have the Liberty of Chuſing his own Commander, after the Firſt Year, and continuing with him, if he ſo likes.</p>
+            <p>By Captain <hi>George S<hi rend="sup">t</hi>. Lo.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Clavell,</hi> at the Peacock in St. <hi>Paul</hi>'s Church-Yard. MDCXCIV.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:43797:2"/>
+            <p> Licenſed,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>October</hi> 6. 1694.</date>
+               </dateline>
+               <signed>Edw. Cook.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:43797:2"/>
+            <head>
+               <hi>To the Right Honourable the</hi> COM<g ref="char:EOLhyphen"/>MISSIONERS <hi>for Executing the Office of LORD HIGH ADMI<g ref="char:EOLhyphen"/>RAL of</hi> ENGLAND <hi>and</hi> IRELAND, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THE Tranſcendency of Your Knowledge and Aptneſs gain'd by long Experience in <hi>Naval Affairs,</hi> hath heightned my Ambition pre<g ref="char:EOLhyphen"/>ſumptuouſly to affix on You this Dedication: And truly I ſhould not ſo boldly have adventur'd to commit theſe Productions of my Pen to the wide Ocean of Fluctuating Opinions; were I not aſſured, that as in Judgment You are able to diſcern it, ſo in Your Noble and Generous Di<g ref="char:EOLhyphen"/>ſpoſitions favourably to accept and encourage it; ſince the Deſign and Tendency hereof, is ſolely to promote and advance the Intereſt of Their Majeſties and their Subjects, and to Encourage Seamen, even to a voluntary hazarding their
+<pb facs="tcp:43797:3"/> Lives and Fortunes, for the Recovering the Pri<g ref="char:EOLhyphen"/>ſtine Glory and Reputation of our <hi>Navy Royal—</hi>By the Rules of Charity, the Labourer is worthy of his Hire; and none deſerve it more than Sea<g ref="char:EOLhyphen"/>men, if the propoſed Methods be put in Execu<g ref="char:EOLhyphen"/>tion, (which I preſume will meet with Your Ac<g ref="char:EOLhyphen"/>ceptance and Concurrence, as being deſign'd for a Publick Good; for which Your utmoſt Endea<g ref="char:EOLhyphen"/>vours and Indefatigable Induſtry has not been wanting) Then will the Seamens Courage be fortified, Honeſty encouraged, deſerving Men rewarded, and Merchants Affairs cheerfully pro<g ref="char:EOLhyphen"/>ceeding, and the Reformers of ill Cuſtoms be had in everlaſting Memory, for the Good they did in their Generations:—I humbly beg Par<g ref="char:EOLhyphen"/>don for this Digreſſion, and humbly deſire that you would take it into Your Conſideration. For my part I ever did, and ſhall to the utmoſt of my poor Abilities endeavour truly and faithfully to Serve Their Majeſties and Their Loyal Sub<g ref="char:EOLhyphen"/>jects, and to have a due Eſteem and Veneration for this Honourable Board. Accept therefore this Off-ſpring of ſome ſpare Hours, improv'd wholly with an intent for a National Advantage: And be pleaſed (if Your Lordſhips approve here<g ref="char:EOLhyphen"/>of)
+<pb facs="tcp:43797:3"/> to encourage the ſame by a timely Recom<g ref="char:EOLhyphen"/>mendation thereof to thoſe concern'd therein, for the promoting and advancing the Intereſt and Weal of the Preſent Government, which is the hearty deſire of</p>
+            <closer>
+               <signed>Your Lordſhips Moſt Faithful and Obedient Servant, <hi>George S<hi rend="sup">t</hi>. Lo.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:43797:4"/>
+            <head>
+               <hi>To the READER, Eſpecially the Loyal Sub<g ref="char:EOLhyphen"/>jects of Their Majeſties King</hi> WILLIAM <hi>and Queen</hi> MARY, <hi>of</hi> ENGLAND, &amp;c.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g> have here preſented unto your View, the various Circumſtances and Grievances, which the Nation in General, and in Particular, the Merchants and Seamen do labour under, relating to Sea Affairs—You will alſo find ſeveral Propoſals with Reaſons thereto annexed, humbly offer'd for Redreſſing the ſame; and ſaving to Their Ma<g ref="char:EOLhyphen"/>jeſties conſiderable Sums of Mony, which might be of great <g ref="char:V">Ʋ</g>ſe otherways, tending to the Welfare of the Nation; and alſo of procuring ſuch Numbers of Able Seamen, who on all Occaſions, and at a very ſhort Warning, ſhall be thought ſufficient to well Man Their Majeſties Fleet, without any ſenſible Charge to the Nation; whereby the great Inconve<g ref="char:EOLhyphen"/>niencies and Miſchiefs oft-times attending Preſſing will be prevented, the Seamen encouraged, the Merchants nego<g ref="char:EOLhyphen"/>tiating their Sea Affairs, without the leaſt Interruption from our Men of War, or having their Men Preſs'd from them as is uſually; and our Fleets in a probability of Reign<g ref="char:EOLhyphen"/>ing as SOVEREIGN of the Seas, when, and as often as Their Majeſties ſhall pleaſe to Command the ſame.</p>
+            <p>'Tis true, many Notions and Propoſitions have been the Product of this Age; but none of this kind has been yet of<g ref="char:EOLhyphen"/>fer'd, that I know of, ex<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>pt what I propos'd in my former Book.</p>
+            <pb facs="tcp:43797:4"/>
+            <p> I confeſs, I might have been ſilent as well as others, had not the preſent Neceſſity of Affairs obliged me to appear in this kind: And as in the Body Natural, the Help and Aſſiſtance of its Members is requir'd towards its Support: So in the Government of a Church or State every Perſon (by an indiſſoluble Bond of Self-preſervation) is obliged to propagate and advance the Intereſt of that Common<g ref="char:EOLhyphen"/>wealth, of which he is a Member: And by how much the more Benefit he receives thereby, by ſo much the more he is bound both in Duty and Conſcience to do his utmoſt, for the Honour and Service of the ſame.</p>
+            <p>It being therefore Their Majeſties moſt Gracious Plea<g ref="char:EOLhyphen"/>ſure, that I ſhould as it were immediately receive my Bread from their Hands, I muſt needs be thought guilty of the high<g ref="char:EOLhyphen"/>est Ingratitude, not to be ſtudious either of Detecting any fraudulent Contrivances or Practices, in any wiſe tending to the wrongfully leſſening Their Majeſties Treaſure, or in not promoting whatſoever conduces to the Benefit and Inte<g ref="char:EOLhyphen"/>reſt of Their Majeſties and Their Subjects.</p>
+            <p>Then there is this further Motive, to induce me to a ſollici<g ref="char:EOLhyphen"/>tous Care of the Nations Good; Namely, as being a Native thereof. For what Perſon, whoſe Veins are fill'd with true <hi>Engliſh</hi> Blood, can contentedly think of wearing Saboes or Wooden Shoes; or willingly leave one Stone unturn'd, that he thinks may conduce to the Welfare of his Native Soil? And who but a Mad-man would prefer the Government of an Inſult<g ref="char:EOLhyphen"/>ing and Tyrannical Prince, to that of a Faithful Defender of our Rights and Privileges, nay of our Faith it ſelf; but rather with Tooth and Nail oppoſe whatſoever ſtands in Com<g ref="char:EOLhyphen"/>petition to its Happineſs?</p>
+            <p>Laſtly, The barbarous <g ref="char:V">Ʋ</g>ſage which I receiv'd from the Ty<g ref="char:EOLhyphen"/>rannical Hands of the <hi>French,</hi> whilſt I was a Priſoner there, (only for my Conſtancy and Reſolution, not to be byaſs'd to admit even of a diſhonourable Thought of Their Majeſties, or
+<pb facs="tcp:43797:5"/> the preſent Government) puts me upon endeavouring to re<g ref="char:EOLhyphen"/>taliate their Kindneſs, which to do, I know no better way, than by propoſing Methods, whereby we may be Strengthned Abroad, and Proſperous at Home; and if theſe following Pro<g ref="char:EOLhyphen"/>poſals meet with ſuch Effects, my Deſign is anſwer'd.</p>
+            <p>To plead for my Book, I will not, the Subject whereon it treats, carrying its Advocate along with it: I am ſure here is a Foundation for a more ingenious Architect to build on, if this be thought inſufficient. As for Curioſity in the Me<g ref="char:EOLhyphen"/>thod, that can't be expected from me, who pretend only to know ſomething belonging to a Sailer: My Diſhes being drest not as at a Feast, but as at an Ordinary; neither are they placed ſo Methodically as they might have been; I taking things not orderly, but as they hapned to come into my Mind. I believe that neither my Subject nor Methods will pleaſe all, yet I preſume it may pleaſe ſome. What the Ignorant ſay of it, I value not; They are like the Cock in the Fable, who de<g ref="char:EOLhyphen"/>ſpiſed the Jewel only becauſe he knew not its worth. And what the Envious ſay of it, I paſs not; They are like the Dog, who would neither Eat himſelf, nor ſuffer the Ox to Eat: It's the candid Cenſure of the Impartial, Judicious and Solid Judgments which I reſpect, and to which alone I'll ſubmit, being Servant to all ſuch, whilſt.</p>
+            <closer>
+               <signed>George S<hi rend="sup">t</hi>. Lo.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:43797:5"/>
+            <head>
+               <hi>ENGLAND</hi>'s INTEREST; Or, a <hi>Diſcipline for Seamen.</hi>
+            </head>
+            <p>AMIDST all the Addreſſes hitherto made, for the redreſſing Publick Grievances, (it ſeems very ſtrange) That although there are (doubt<g ref="char:EOLhyphen"/>leſs) within this Kingdom, many Well<g ref="char:EOLhyphen"/>willers to Seamen in general, yet 'tis obſerved; That not one, (as yet) has taken upon him to propoſe a Method for redreſſing the Complaints and Hardſhips of thoſe Seamen, who have been conſtantly imploy<g ref="char:EOLhyphen"/>ed in the King's Service all this War, and have to their power, born the Fatigues thereof; by contriv<g ref="char:EOLhyphen"/>ing ſome ways or means, whereby Seamen (without Partiality) might take Turns to relieve each other, on Board the Men of War. For 'tis very obvious, that a great many Seamen, either by Protections, or ſome o<g ref="char:EOLhyphen"/>ther Evaſions, have ſhifted their Necks out of the Collar (whereby it has lain the harder on the firſt mentioned) getting into Merchants Service, only for the lucre of greater Pay, than is given to Fore-maſt-men in Men of War; without any reſpect to the welfare of the Nation in general; receiving ſometimes Fifty Shillings, and ſome<g ref="char:EOLhyphen"/>times Three Pound, Four Pound, and Five Pound <hi>per</hi>
+               <pb n="10" facs="tcp:43797:6"/> Month; whilſt moſt part of thoſe on Board the King's Ships, have not received above Three and Twenty ſhill<g ref="char:EOLhyphen"/>ings <hi>per</hi> Month during the whole War. And perhaps kept <note place="margin">Some Sea<g ref="char:EOLhyphen"/>men harder dealt with thanothers.</note> out of that for three or four Years, by being turned over from Ship to Ship; and in all that time, hardly enjoying the comfort of their Families for one Month. When others by the means aforeſaid, have been at liberty to go when they would, and come when they pleas'd. Sometimes making more Wages in two Months, than thoſe <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in Men of War do in a whole Year, to their Diſencouragement and great Diſſatisfaction.</p>
+            <p>The Men of Wars Men, have not only had cauſe of Complaint, as before is hinted: But the Merchants at the ſame time have been Sufferers conſiderably many ways.</p>
+            <p>Firſt, Not only by giving extraordinary Wages <hi>per</hi> Month (as before) but alſo by loſing a great part of the benefit of their Voyages; Their Ships oft-times <note place="margin">Merchants ſufferers ſe<g ref="char:EOLhyphen"/>veral ways.</note> ſtaying a great while longer, than is expected at their Ports, when arrived in <hi>England;</hi> only for want of thoſe Men, who were preſt out of them; whereby their Goods have been much damnified, and eſpecially their Wine and periſhable Commodities: And the King's Cuſtoms conſiderably leſſened thereby.</p>
+            <p>Secondly, Many of their Ships have been Loſt, by venturing to Sail without their Complement of Men; part whereof have been preſs'd from them, as afore is mentioned. And for thoſe that have had the good Fortune to eſcape both the danger of the Sea and of the Enemy, and to arrive at <hi>Plymouth</hi> or the <hi>Downs,</hi> have been obliged to give Ten Pound <hi>per</hi> Head from the former place, and Five or Six Pound <hi>per</hi> Head from the latter, only to carry them up to <hi>London:</hi> Which
+<pb n="11" facs="tcp:43797:6"/> from the latter, ſometimes has been effected in two Days.</p>
+            <p>Thirdly, 'Tis very hard upon them to be obliged by <hi>Doctors Commons</hi> to pay their Men their Wages, after the loſing both Ships and Cargo, which uſually amounts to ſeveral Thouſand Pounds; when perhaps through their Mens Cowardize, the Ship has been without re<g ref="char:EOLhyphen"/>ſiſtance deliver'd to the Enemy, and not one Gun fired in her defence.</p>
+            <p>Upon the foregoing Reaſons, and others which might be produced, the Merchants are always at uncertain<g ref="char:EOLhyphen"/>ties, as to the time of the performing their Voyages, (Wind and Weather allow'd) neither can they give any reaſonable Eſtimate, whether to be gainers or lo<g ref="char:EOLhyphen"/>ſers by their Cargo: It being the Opinion of ſeveral Mer<g ref="char:EOLhyphen"/>chants, that it would be as much to their advantage, for thoſe Ships which are Inſured, to be taken by the Enemy, as to be detain'd ſo long, as oft-times they are for want of their Men: For in the former Caſe, they would know what to demand of the Inſurers; but in the latter they are moſt uncertain what to make of their Voyage; One third part of ſome of their Goods, as Wines, <hi>&amp;c.</hi> being hardly Merchantable when it comes Home; as the Cuſtom-Houſe-Officers during this War have expe<g ref="char:EOLhyphen"/>rienced, by the Abatements made in the Duties there<g ref="char:EOLhyphen"/>of.</p>
+            <p>The Subjects (as in the foregoing Diſcourſe appears) are not only injured and uneaſy, but their Majeſties are alſo concern'd herein—For the King's Ships which are Cruizers (for want of a due Method for the acqui<g ref="char:EOLhyphen"/>ring a competent number of Seamen fit for their Maje<g ref="char:EOLhyphen"/>ſties
+<note place="margin">Why Crui<g ref="char:EOLhyphen"/>zers are not more abroad.</note> Service on all occaſions) do oft-times, for want of them, lie two or three Months after they are Clean, ere they can go to Sea, and almoſt at the ſame Charge
+<pb n="12" facs="tcp:43797:7"/> as if Man'd, and abroad in the way to do Service, being many times in want of a ſecond Cleaning ere they go once out of a Harbour.</p>
+            <p>Here is likewiſe a very conſiderable Charge of many Thouſand Pounds <hi>per Annum</hi> ſpent on the Nations ac<g ref="char:EOLhyphen"/>count in impreſſing Men at Sea and on Shoar for the Service: In keeping many Tenders and their Men in Pay and Victuals; beſides the hazard of loſing them, which if it ſo happen, the King is obliged to pay for them. And many other conſiderable Sums of Mony there are expended on ſeveral Accounts, a great part of which might be ſaved, the Particulars whereof take as followeth:</p>
+            <p>Firſt, The King is at a conſiderable Charge Yearly, in giving Impreſt-Mony to Commanders; every Cap<g ref="char:EOLhyphen"/>tain of a Firſt-Rate being allowed Eighty Pound, of a Second-Rate Sixty Five Pound, of a Third-Rate Fifty <note place="margin">Charge of Impreſt to Comman<g ref="char:EOLhyphen"/>ders.</note> Pound, of a Fourth-Rate Forty Pound, of a Fifth-Rate Twenty Pound; beſides the Bills brought in after for extraordinary Charges in Impreſſing, <hi>&amp;c.</hi> amounting uſually to between a Hundred and Four Hundred Pound for a Captain, and the Lieutenants Bills to little leſs.</p>
+            <p>But the Commiſſioners of the Navy, by their ſtrict ſcrutiny into the Truth and Reaſonableneſs of their Ac<g ref="char:EOLhyphen"/>counts, do many times find a ſufficient and juſt Cauſe for abatements in their Bills, by putting thoſe ſaid Offi<g ref="char:EOLhyphen"/>cers to their Oaths, for a Juſtification of the verity of their Accounts, which being by ſome Officers ſcrupled at, gives ſo great a Suſpicion of ſome Fallacy in the mat<g ref="char:EOLhyphen"/>ter, that thereupon deductions are made, or otherwiſe the Charge would be much augmented.</p>
+            <p>Secondly, There is a very conſiderable Charge to the Nation in maintaining a Hundred and Thirty Tenders this Year with their Men, and Proviſions for Six Months
+<pb n="13" facs="tcp:43797:7"/> in the Year, which one with another is the leaſt time they are in Pay: Each Smack and Yacht ſtanding the <note place="margin">Charge of Tenders.</note> King in Five Shillings Six Pence apiece <hi>per</hi> Tun, and each Hoy and Ketch in Six Shillings <hi>per</hi> Tun <hi>per</hi> Month; of which Veſſels each Maſter hath Four Pound <hi>per</hi> Month, each Mate Two Pound <hi>per</hi> Month, each Able Seaman Twenty Four Shillings, and each Ordi<g ref="char:EOLhyphen"/>nary Nineteen Shillings, being in the whole Nine Hun<g ref="char:EOLhyphen"/>dred Fifty and Five Men and Boys. There is alſo their Victuals, which riſes conſiderably this Year, Pro<g ref="char:EOLhyphen"/>viſions being very dear; the which ſtands the King (by a modeſt Computation) in Twenty Six Shillings a Man <hi>per</hi> Month; beſides the hazard of loſing thoſe Tenders; it being (almoſt) no wonder for ſome, a<g ref="char:EOLhyphen"/>mongſt ſo many, to come ſhort home: Every one of thoſe taken by the Enemy ſtanding the King in about Four Hundred Pound. But the Year being not ſpent ſo far as for Tenders to be diſcharged, I can't at this time give an Account of that accidental and uncertain Charge.</p>
+            <p>Thirdly, In the Year 91. There was given to Sea<g ref="char:EOLhyphen"/>men 6530 <hi>l.</hi> Bounty-Mony, for Encouragement to come into the King's Service; beſides Conduct-Mony, which being not practiſed at this time, I ſhall omit in the Charge of this Year.</p>
+            <p>Fourthly, There is alſo about 206 <hi>l.</hi> given in one Year to the Rulers of Watermens-Hall, for their Charge <note place="margin">Charge to the Rulers of Water<g ref="char:EOLhyphen"/>mens-Hall.</note> in ſending Men for Sea-Service: But if they were ſuch other Years, as thoſe ſent by them on Board the hired Merchant-ſhips this Year, 'twas a dear Bargain, ¾ of thoſe ſent this Year by them being Boys, as of late hath been obſerved.</p>
+            <pb n="14" facs="tcp:43797:8"/>
+            <p> Fifthly and Laſtly, The Mony given to Vice-Admi<g ref="char:EOLhyphen"/>rals of Counties, for their Charge in ſending (for the moſt part) ſuch Perſons as the Watermen did ſend this Year, has been very conſiderable: The leaſt Sum given them being Fifty Pound, of which there were not above Three in one Year; The reſt being between an Hundred and Six Hundred and Fifty Pound, as by the Accounts of the Collectors of the Cuſtoms given into the Navy-Office doth appear: But not knowing how to collect the whole Charge thereof, I can't inſert it here. The aggregate of thoſe particular Charges now in uſe, and what of them have come to my knowledge (by a mo<g ref="char:EOLhyphen"/>deſt Computation) do amount to 36030 <hi>l.</hi> 10 <hi>s. per Annum;</hi> The which if ſaved, or but ⅔ thereof, which may eaſily be done by the following Methods, might be imploy'd ſeveral ways for the Benefit, and to the Sa<g ref="char:EOLhyphen"/>tisfaction of the Nation: It being very plain, that the leſs extravagant and unneceſſary Charge we are at, the leſs Taxes will be for every Man's ſhare, and conſequent<g ref="char:EOLhyphen"/>ly the better able to hold out the War.</p>
+            <div type="part">
+               <pb n="15" facs="tcp:43797:8"/>
+               <head>See the particular Account of the afore-mentioned Charge, of what comes to my Knowledge, Summ'd up underneath.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell> </cell>
+                        <cell>Rates. N<hi rend="sup">o</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell>l.</cell>
+                        <cell> </cell>
+                        <cell>l.</cell>
+                        <cell>s.</cell>
+                     </row>
+                     <row>
+                        <cell>Impreſt-Mony given to Com<g ref="char:EOLhyphen"/>manders in the Line of Battel.</cell>
+                        <cell>1—6</cell>
+                        <cell rows="4">at</cell>
+                        <cell>80</cell>
+                        <cell rows="4">is</cell>
+                        <cell>00480</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>2—9</cell>
+                        <cell>65</cell>
+                        <cell>00585</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>3-30</cell>
+                        <cell>50</cell>
+                        <cell>01500</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>4-07</cell>
+                        <cell>40</cell>
+                        <cell>00280</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell rows="3">Thoſe are half of what are out of the Line of Battel, and re<g ref="char:EOLhyphen"/>ceive Impreſt-Mony. The o<g ref="char:EOLhyphen"/>ther being in foreign Parts are not chargeable as thoſe at Home, and ſo are omitted.</cell>
+                        <cell>3-07</cell>
+                        <cell rows="3">at</cell>
+                        <cell>50</cell>
+                        <cell rows="3">is</cell>
+                        <cell>00350</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>4-14</cell>
+                        <cell>40</cell>
+                        <cell>00560</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>5-14</cell>
+                        <cell>20</cell>
+                        <cell>00280</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Smacks, <hi>&amp;c.</hi> 50 containing 1626 Tun, at 5 <hi>s.</hi> 6 <hi>d.</hi> a Tun.</cell>
+                        <cell rows="7" cols="4">
+                           <hi>per</hi> Month for Six Months, is</cell>
+                        <cell>02682</cell>
+                        <cell>18</cell>
+                     </row>
+                     <row>
+                        <cell>Ketches, <hi>&amp;c.</hi> 80. Containing 5617 Tun, at 6 <hi>s.</hi> a Tun.</cell>
+                        <cell>10110</cell>
+                        <cell>12</cell>
+                     </row>
+                     <row>
+                        <cell>Maſters 130. at 4 <hi>l.</hi> apiece.</cell>
+                        <cell>03120</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Maſters-mates 130. at 2 <hi>l.</hi> apiece</cell>
+                        <cell>01560</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Able 435. at 1 <hi>l.</hi> 4 <hi>s.</hi> each.</cell>
+                        <cell>03132</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>Ordinary 260. at 19 <hi>s.</hi> each.</cell>
+                        <cell>01480</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>955 Men and Boys Victuals, at 26 <hi>s.</hi> each.</cell>
+                        <cell>07449</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell cols="5">To the Rulers of <hi>Water-mens-Hall,</hi> for one Year—</cell>
+                        <cell>00206</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell cols="5">⅖ of Captains and Lieutenants Bills for Five Years paſt, modeſtly computed is—</cell>
+                        <cell>02255</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell cols="7"> </cell>
+                        <cell>36030</cell>
+                        <cell>10</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="16" facs="tcp:43797:9"/>
+               <p> The aforementioned Charges to the Nation: The Grievances and Sufferings of the Merchants, whoſe Loſs uſually exceeds the ſaid Sum of 36030 <hi>l.</hi> 10 <hi>s.</hi> Yearly, and that purely for want of their Men, which are taken from them as aforeſaid; whereby many Merchants of good Eſtates formerly, are now reduced, and Trading much decay'd: Together with the Hardſhips which many Sailers undergo in reſpect of others, and the diffi<g ref="char:EOLhyphen"/>culty of getting thoſe Men which are fit for their Ma<g ref="char:EOLhyphen"/>jeſties Service, notwithſtanding the extraordinary Charge attending the ſame. I ſay, all theſe things being premi<g ref="char:EOLhyphen"/>ſed, and as they are unqueſtionably True; it muſt needs be thought an acceptable Undertaking (by all thoſe who are well affected to Their Majeſties and the preſent Go<g ref="char:EOLhyphen"/>vernment) to propoſe a Method, and probable means of leſſening the greateſt part of the before-recited Charge; of redreſſing the Merchants Grievances, and acquiring a competent Number of Seamen on all Occaſions for the Service; without Preſſing any at Sea, and of diſpoſing them on Board the King's Ships from time to time, with an equal and impartial Hand, ſo as that every Man ſhall take his turn Yearly, or as ſhall be thought fit to be in the Service; except where any Seamen ſhall think fit to continue longer on Board Men of War, through hopes of Preferment: All which is humbly propos'd to be done by the following Methods.</p>
+               <p>But 'tis thought, that want of Encouragement and Patronage (from the Calumnies and Prejudices of thoſe who are inveterately bent againſt the true Intereſt of the Nation) have been a Check and Reſtraint to the Genius of ſeveral Perſons; who (doubtleſs) had they been at liberty, might long ago have offered divers good and advantagious Propoſals, of this and other kinds, tending to the Nations Advantage and Intereſt. And
+<pb n="17" facs="tcp:43797:9"/> 'tis not to be queſtion'd, but that many an Engine of that kind ſtands ſtill, for want of the aſſiſtance of noble and publick ſpirited Perſons to ſet it on work; which if encouraged might be of great Uſe. The better to ef<g ref="char:EOLhyphen"/>fect what is premiſed, 'tis humbly propoſed, That all Self-intereſt be diſcarded; and that no Perſons of any Rank or Quality, do protect any Perſon belonging to the Sea or imployed in any River: Or Trading in Boats or Veſſels of any kind whatſoever. For as 'tis very rea<g ref="char:EOLhyphen"/>ſonable, that any Mans private Opinion ought to ſub<g ref="char:EOLhyphen"/>mit to a general Council: So it can be no leſs equitable, that a few private Intereſts do give way to a National Advantage; a Limb being not ſo valuable as the whole Body.</p>
+               <p>Theſe things being granted as indiſpenſably neceſſary, I ſhall endeavour to lay down the Method with as much brevity and plainneſs as I can.</p>
+               <p>But I know, that whoever expoſeth himſelf to the World, in things of this kind, muſt expect to meet with many virulent Cenſures of Detraction, and that 'tis impoſſible to pleaſe every one. But ſince there is not the leaſt deſign in the Author, to make himſelf any peculiar Intereſt hereby; 'tis to be hoped, it may meet with the kinder Reception from all noble and generous ſpirited <hi>Patriots.</hi> The benefit of the Nation in general, and in particular, the Eaſe and Encouragement of Sail<g ref="char:EOLhyphen"/>ers, who through the whole Series of this War have conſtantly been fatigu'd therein, being the only aim and deſign in this Undertaking.</p>
+            </div>
+            <div type="part">
+               <pb n="18" facs="tcp:43797:10"/>
+               <head>A Method for the Chuſing ſuch <hi>Perſons</hi> as are fitly Qualified to be made <hi>Officers,</hi> for the Regiſtring <hi>Seamen, &amp;c.</hi>
+               </head>
+               <p>Prop. 1. <hi>'TIs humbly propoſed, that a competent Number of Regiſters or Naval Officers, (for ſo they may be called) be appointed; one for each of thoſe Counties bordering on the Sea, which are large; and for thoſe Counties that are ſmall to the Seaward and lie together; one Officer may ſerve for two. Each Officer to keep his Office in the chief Port or moſt convenient Place in his reſpective County, for the due Regiſtring Seamen, Shipwrights, Caulkers, Sailmakers, &amp; Rope-makers; and performing ſuch Offices as hereafter are propoſed.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 1. Theſe Officers being eſtabliſh'd one in each County that is large, and one for any two Counties which are ſmall to the Seaward, and lie together; will be able to give an account what Seamen are belonging to each particular Place in their ſeveral Counties, from whom the Lords of the Admiralty (as occaſion ſhall of<g ref="char:EOLhyphen"/>fer) may require a Liſt of their Numbers, and accord<g ref="char:EOLhyphen"/>ingly iſſue out Orders for the going on Board ſuch Ship or Ships, as by them ſhall be thought meet and conve<g ref="char:EOLhyphen"/>nient, lying near thoſe Places or any other.</p>
+               <p>Prop. 2. <hi>That thoſe Naval Officers ſhall be ſuch Perſons</hi> 
+                  <note place="margin">How Per<g ref="char:EOLhyphen"/>ſons ought to be qua<g ref="char:EOLhyphen"/>lified to be Naval Officers.</note> 
+                  <hi>as have been Captains of Men of War, Four Years at leaſt, without intermiſſion in the King's Service. And 'twill not only be moſt proper; but alſo leſs chargeable to their Majeſties, That they be Half-Pay Captains, or Superannuated ones; if a ſufficient Number of thoſe may be had: Likewiſe that they be Commiſſionated to be Juſtices of the Peace for thoſe Coun<g ref="char:EOLhyphen"/>ties in which they ſhall be Eſtabliſhed: And that they be allowed, (by the King) ſuch an addition of Pay or Wages to their former Sallaries, as may amount the whole to</hi> 400 l.
+<pb n="19" facs="tcp:43797:10"/> per Annum, <hi>which may be thought a competent Mainte<g ref="char:EOLhyphen"/>nance for them: Whereby they will not be expoſed to the breach of Trust, as otherwiſe they might, if ſtraitned in their yearly Allowance of Sallary.</hi>
+               </p>
+               <p>
+                  <hi>Rat.</hi> 2. Why ſuch Officers ſhould be Half-Pay Cap<g ref="char:EOLhyphen"/>tains, or Superannuated ones, is becauſe in all probabi<g ref="char:EOLhyphen"/>lity, they are moſt likely to underſtand Sea Affairs; and rightly to put in Execution ſuch Orders, as from time to time ſhall be directed to them, from the Lords of the Admiralty. Theſe Officers upon Examination into the Qualities and Abilities of Seamen, are alſo moſt likely to be competent Judges thereof: Further, ſuch Captains have now each of them a Sallary from the King, as ſome 136 <hi>l.</hi> others 273 <hi>l. per Annum,</hi> according to the Rates of thoſe Ships they ſerved in laſt. So that what has been given to Deputy-Vice-Admirals, <hi>&amp;c.</hi> as afore is menti<g ref="char:EOLhyphen"/>oned, for ſending in thoſe, which for the moſt part, have been raw and unfit for the Sea, and many of them never at Sea; together with the Impreſs-Mony given to Captains, will over and above compleat their Sallaries of 400 <hi>l. per Annum,</hi> and their Inſtruments Sallaries likewiſe: So that hereby the Charge of thoſe Offices will be defray<g ref="char:EOLhyphen"/>ed out of extraordinary Charges, which may be ſaved.</p>
+               <p>Prop. 3. <hi>That each Officer be allowed two Clerks, One at</hi> 50 l. per Annum <hi>and another at</hi> 30 l. <hi>a Year Sallary, to be</hi> 
+                  <note place="margin">Clerks and their Salla<g ref="char:EOLhyphen"/>ries.</note> 
+                  <hi>paid by the Navy, according to the <g ref="char:V">Ʋ</g>ſe and Cuſtom thereof. Theſe two Clerks ſhall be reſident where the ſaid Naval Officer keeps his head Office. But if the County be large and has ſeveral Seaports in it, then to be allowed as many more Clerks at</hi> 30 l. <hi>a Year, as ſhall be thought neceſſary for that Service, and the eaſe of the Subject.</hi>
+               </p>
+               <p>
+                  <hi>Rat.</hi> 3. Theſe Clerks will be uſeful in keeping the Regiſters: and in making and Copying all the Liſts of Seamen, <hi>&amp;c.</hi> and in making out the Warrants, which
+<pb n="20" facs="tcp:43797:11"/> Maſters of Ships muſt take with them, before they Sail: And the Bonds which they muſt give to obſerve the Articles hereafter mentioned. For it can't be expected to be done by the Naval Officer himſelf, who will have buſineſs enough to decide Controverſies, and to ſee to the well Management of his Office in every reſpect: And for a further Illuſtration of the Diſpoſing the Naval Officers and their Clerks, take the following Example of</p>
+               <div type="subpart">
+                  <head>Dorſet-ſhire.</head>
+                  <p>The Naval Officer with his two Clerks ſhall have their place of Reſidence at <hi>Weymouth,</hi> another Clerk at <hi>Lime,</hi> and another at <hi>Pool,</hi> which two latter ſhall likewiſe Regiſter thoſe Seamen, Shipwrights, Caulkers, <hi>&amp;c.</hi> which ſhall live neareſt and moſt convenient to come thither. In theſe Methods, reſpect being to be had to that which ſhall leaſt offend the Subject, or be burdenſome to them. Theſe two latter Clerks (from time to time) ſhall give <note place="margin">An Exam<g ref="char:EOLhyphen"/>ple of di<g ref="char:EOLhyphen"/>ſpoſing the Naval Officers.</note> an exact Acount to the Naval Officer at <hi>Weymouth</hi> of all their Proceedings; who himſelf, as often as need re<g ref="char:EOLhyphen"/>quires ſhall viſit thoſe particular Ports, to hear all Complaints and to rectifie the ſame; which will be a great eaſe to thoſe Inhabitants who live remote from <hi>Weymouth:</hi> And before his going thither, ſhall give timely Notice to the Clerks there reſident, that they may cauſe the ſame to be publiſhed on a preceding Market-Day or a Sunday, that the Inhabitants may know the ſame. The chief Clerk to the Naval Officer ſhall likewiſe be imployed, as oft as occaſion ſhall require, to ride from place to place as a Superviſor over thoſe two Clerks at the Out-Ports: And alſo to go on Board all ſuch Ships, as are at any Ports, in his Precincts, at their going thence, or return Home from any Voyage: To ſee if their Warrants do agree with the Original kept in
+<pb n="21" facs="tcp:43797:11"/> the reſpective Office, in every particular. Every Maſter of a Merchant-Man being to be obliged, to take a War<g ref="char:EOLhyphen"/>rant with the Names of his Men, <hi>&amp;c.</hi> therein inſerted, from that Port whence he fits out; for which he ſhall pay half a Crown to the chief Clerk; and the ſame price for the Bond he ſhall give for bringing back his Men, or giving a ſatisfactory account what is become of them; as hereafter ſhall be explained: A Copy of the Warrant may be this underwritten,</p>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="warrant">
+                              <p>JOhn Jenkins, <hi>Maſter of the</hi> William <hi>and</hi> Mary <hi>Pink,</hi>
+                                 <note place="margin">Copy of a Warrant to be taken by Maſters of Merchant-Men.</note> 
+                                 <hi>(Inhabiting in the Highſtreet in</hi> Pool) <hi>being about an Hundred Tuns, and bound for the</hi> Weſt-Indies) <hi>aged Twenty Seven Years; having uſed the Sea Twelve Years; One whereof he has ſpent in the King's Service this War, in</hi> 1692. <hi>Has hereby a Permit to carry the Eight Perſons under-mentioned with him to the</hi> Weſt-Indies, <hi>without be<g ref="char:EOLhyphen"/>ing Impreſt from him, or otherwiſe moleſted, to the hindrance of his Voyage:</hi>
+                              </p>
+                              <closer>
+                                 <dateline>
+                                    <hi>Given under my Hand and Seal at</hi> Wey<g ref="char:EOLhyphen"/>mouth
+<date>
+                                       <hi>this 27th Day of</hi> Auguſt, 1694.</date>
+                                 </dateline>
+                              </closer>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Names.</cell>
+                           <cell>Time of being Liſted.</cell>
+                           <cell>Place of Aboad.</cell>
+                           <cell>How long us'd the Sea.</cell>
+                           <cell>Whether in the King's Service, and how long.</cell>
+                           <cell>On Board what Ship.</cell>
+                           <cell>Age</cell>
+                           <cell>D. <hi>or</hi> R.</cell>
+                           <cell>Whither.</cell>
+                        </row>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell>Years.</cell>
+                           <cell>Years.</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>James Clerk.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Jan.</hi> 3. 91.</cell>
+                           <cell>
+                              <hi>Leaverpool.</hi>
+                           </cell>
+                           <cell>3</cell>
+                           <cell>Never.</cell>
+                           <cell>
+                              <hi>Portſmouth.</hi>
+                           </cell>
+                           <cell>27</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Will. Jones.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Ju.</hi> 7. 92.</cell>
+                           <cell>
+                              <hi>Ramſgate.</hi>
+                           </cell>
+                           <cell>17</cell>
+                           <cell>3</cell>
+                           <cell>D<hi rend="sup">o</hi>.</cell>
+                           <cell>30</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Ro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>. Burby.</hi>
+                           </cell>
+                           <cell>
+                              <hi>July</hi> 12. 94<g ref="char:punc">▪</g>
+                           </cell>
+                           <cell>
+                              <hi>Newcaſtle.</hi>
+                           </cell>
+                           <cell>1</cell>
+                           <cell>1</cell>
+                           <cell>
+                              <hi>Woolwich.</hi>
+                           </cell>
+                           <cell>17</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Tho. Horn.</hi>
+                           </cell>
+                           <cell>D<hi rend="sup">o</hi>.</cell>
+                           <cell>D<hi rend="sup">o</hi>.</cell>
+                           <cell>10</cell>
+                           <cell>4</cell>
+                           <cell>
+                              <hi>Dartmouth.</hi>
+                           </cell>
+                           <cell>26</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Joſeph Wood.</hi>
+                           </cell>
+                           <cell>D<hi rend="sup">o</hi>.</cell>
+                           <cell>D<hi rend="sup">o</hi>.</cell>
+                           <cell>11</cell>
+                           <cell>3</cell>
+                           <cell>D<hi rend="sup">o</hi>.</cell>
+                           <cell>28</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Francis Roſe.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Aug.</hi> 1. 94.</cell>
+                           <cell>
+                              <hi>Southampon.</hi>
+                           </cell>
+                           <cell>20</cell>
+                           <cell>Never.</cell>
+                           <cell>
+                              <hi>Mary.</hi>
+                           </cell>
+                           <cell>45</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Tim. Thom.</hi>
+                           </cell>
+                           <cell>D<hi rend="sup">o</hi>.</cell>
+                           <cell>D<hi rend="sup">o</hi>.</cell>
+                           <cell>19</cell>
+                           <cell>4</cell>
+                           <cell>D<hi rend="sup">o</hi>.</cell>
+                           <cell>36</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Charles Holt.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Yarmouth.</hi>
+                           </cell>
+                           <cell>
+                              <hi>Yarmouth.</hi>
+                           </cell>
+                           <cell>30</cell>
+                           <cell>3</cell>
+                           <cell>
+                              <hi>Dover.</hi>
+                           </cell>
+                           <cell>50</cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="22" facs="tcp:43797:12"/>
+                  <p> Prop. 4. <hi>In the next place, it will be needful, that a general Office relating to the particular Offices be kept in</hi> London, <hi>and managed by a Naval Officer and a competent number of Clerks, who ſhall be allowed larger Sallaries than to thoſe in the Coun<g ref="char:EOLhyphen"/>try, in reſpect of the multiplicity of Buſineſs, which muſt needs attend the Office, above what may be expected in the Country. <g ref="char:V">Ʋ</g>nto this general Office, every individual Naval</hi>
+                     <note place="margin">A general Office to be kept in <hi>London.</hi>
+                     </note> 
+                     <hi>Officer in the Country, ſhall every Month tranſmit a Copy or Liſt of all the Men he ſhall Regiſter from time to time; and of the Quality and Circumſtance of each Man, according as he ſhall be entred, and what are in the Service, and what on Shoar; and ſhall keep an Alphabet-Book, beginning with the first Letter of each Man's Sir-Name, for the ready finding them at any time. He ſhall alſo from time to time, ſend a particular Account of what Charges he has been at on account of the Office, and what Mony has been iſſued as a Re<g ref="char:EOLhyphen"/>ward to any Perſons upon the Conditions hereafter-mentioned: Which Accounts ſhall be adjuſted (by the general Officer) with the principal Officers and Commiſſioners of Their Maje<g ref="char:EOLhyphen"/>ſties Navy, from whom all Bills of Impreſt (for the defray<g ref="char:EOLhyphen"/>ing any of the afore-mentioned Charges) ſhall proceed.</hi>
+                  </p>
+                  <p>
+                     <hi>Rat.</hi> 4. This Grand Office being ſetled, and from time to time receiving an account of what Men, and how ma<g ref="char:EOLhyphen"/>ny are Regiſtred at every individual Place, will be able to ſignifie the fame unto the Lords of the Admiralty upon their demanding it: And being likewiſe informed by the ſaid Naval Officers, who are at Sea, and who on Shoar; The <hi>Lords</hi> upon any great and emergent occaſi<g ref="char:EOLhyphen"/>on may iſſue out their Orders, for ſuch a certain Num<g ref="char:EOLhyphen"/>ber of them, as ſhall be wanted on any Expedition in a very ſhort time. As for the general Officer adjuſting the Accounts of the other Officers, with the Commiſſi<g ref="char:EOLhyphen"/>oners of the Navy (that will prevent the Charge which a new Office would require for that purpoſe) And it be<g ref="char:EOLhyphen"/>ing
+<pb n="23" facs="tcp:43797:12"/> moſt properly under the Verge of the Commiſſioners of the Navy, as things relating to that Office; it is there<g ref="char:EOLhyphen"/>fore moſt fit that the Accounts thereof ſhould be by them examined and approved, or otherwiſe diſallowed and rejected.</p>
+                  <p>Prop. 5. <hi>Laſtly, That two Clerks be allowed at</hi> Graveſend, <note place="margin">Clerks at <hi>Graveſend.</hi>
+                     </note> 
+                     <hi>if ſo many may be thought ſufficient, at</hi> 60 l. per Annum <hi>Sallary, who ſhall mutually aſſiſt one another, and ſhall be accountable to the ſaid Office at</hi> London <hi>for what they do. <g ref="char:V">Ʋ</g>nto theſe two Clerks every Maſter of a Merchant Ship that goes down the River ſhall ſhew his Warrant, which the ſaid Clerks ſhall either Snip, as the Searchers do the Cocquets; or otherwiſe put their Names thereto, as by Directions to them ſhall be thought moſt fit and convenient for the Pro<g ref="char:EOLhyphen"/>ſecution of the intended Deſign.</hi>
+                  </p>
+                  <p>
+                     <hi>Rat.</hi> 5. Theſe two Clerks may be allowed 10 <hi>l.</hi> a<g ref="char:EOLhyphen"/>piece <hi>per Annum,</hi> more than other Clerks in the Country, being ſuppoſed to be at extraordinary Duty in the per<g ref="char:EOLhyphen"/>formance of their Office. Their buſineſs will be to exa<g ref="char:EOLhyphen"/>mine all Maſters of Ships at their going down the Ri<g ref="char:EOLhyphen"/>ver by <hi>Graveſend;</hi> and likewiſe at their return from any Voyage; Whether they have in every reſpect com<g ref="char:EOLhyphen"/>plied with the Conditions required: That is, that their Men are the ſame ſpecified in the Warrant which they muſt take from the grand Office; and that they have given Bond as they ought, and performed ſuch Articles as they ſhall thereby be obliged to obſerve: A Counterpart whereof they ſhall produce to the ſaid Clerks; who ſhall examine into the Truth thereof by comparing them with the Copies, which the ſaid Clerks ſhall receive from the general Office.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="24" facs="tcp:43797:13"/>
+               <head>The Method for Regiſtring Seamen, Shipwrights, Caulkers, Ropemakers and Sailmakers, to be in Readineſs for Their Majeſties Service at a ſhort Warning.</head>
+               <p>Prop. 1. <hi>THE Magiſtrates and chief Officers of each individual Place in every County, as the Mayors in Corporations, the Bayliffs, Conſtables, Headbo<g ref="char:EOLhyphen"/>roughs, Tythingmen, and the like, in their reſpective Towns, Burroughs, Villages, Hamlets,</hi> &amp;c. <hi>ſhall each of them within ſix Weeks after the Publication hereof, (by Proclamation or otherwiſe) bring as perfect a List as poſſibly they can; of all Shipwrights, Caulkers, Sailmakers and Ropemakers: And of all Maſters of Ships, Seamen or Watermen; And all other belonging to any Craft in any River, as Weſtern-barges, Ware-barges, Row-barges, Sand-barges, Tilt-boats, Ferry-boats, Fiſhing-boats, Ballaſt-Lighters, Keels and the like, or that have uſed the Sea within theſe ſeven Years last; being between the Age of ſixteen and ſixty, being in or belonging to any Towns or Places within their Liberties as aforeſaid, with as exact an Account as they can, of the reſpective Ages of each Perſon, and their Place of Aboad; How long they have uſed the Sea, and whether ever in the King's Service; and how long they have ſerved therein this War. The which Lists ſo made out; They ſhall attest under their Hands and Seals, and the ſame deliver (as be<g ref="char:EOLhyphen"/>fore directed) unto the ſaid Naval Officer.</hi>
+               </p>
+               <p>
+                  <hi>Rat.</hi> 1. The Regiſtring Shipwrights, Caulkers, Sail<g ref="char:EOLhyphen"/>makers and Ropemakers, will be advantagious ſe<g ref="char:EOLhyphen"/>veral ways: For thereby we ſhall always be pro<g ref="char:EOLhyphen"/>vided with a Supply of ſuch ſort of Workmen at a very ſhort Warning, both for the King's
+<pb n="25" facs="tcp:43797:13"/> Ships, and Dock-yards, (without the Charge and <note place="margin">The Advan<g ref="char:EOLhyphen"/>tage of Regi<g ref="char:EOLhyphen"/>ſtring Ship<g ref="char:EOLhyphen"/>wrights, Caul<g ref="char:EOLhyphen"/>kers, &amp;c.</note> Trouble of Preſſing) which from the latter, being oft<g ref="char:EOLhyphen"/>times neceſſitouſly drawn to ſend on Board the King's Ships, are wanted in the ſaid Yards; (for the expediting and ſitting out the Ships on emergent Occaſions) where<g ref="char:EOLhyphen"/>by they are delayed, and lye ſtill; when perhaps, if they were ſooner diſpatched and ſent abroad, they might be in the way to take Prizes, or at leaſtwiſe at Sea to pre<g ref="char:EOLhyphen"/>vent the <hi>French</hi> Privateers from ranging the Seas, and taking ſo many Merchant Men as they do. In the next place, having plenty of thoſe Work-men on all Calls, there may be more Cordage made in the King's yards, which may be either cheaper to the King, or better than what's made in Merchants yards, or both. There may likewiſe more Men of War be built in the King's own yards, than now are, which may be worth conſidering; for it is found by Experience, That Ships built in the King's own yards, are much more ſerviceable than thoſe built in Merchants yards for him. There are ſeveral other Advantages that will attend this Method, if pra<g ref="char:EOLhyphen"/>cticed, which, ſince Time and Practice may diſcover, I ſhall forbear to enumerate at this time. The Regiſtring Sea-men, Water-men, <hi>&amp;c.</hi> will be the ready way of know<g ref="char:EOLhyphen"/>ing what Number of Sea-men there are in <hi>England,</hi> and how many may be had from each individual place, on all occaſions to ſerve in Their Majeſties Fleet: Which being put in Execution by Vertue of an Act of Parli<g ref="char:EOLhyphen"/>ament, can't in all probability miſs of its deſired Ef<g ref="char:EOLhyphen"/>fects; Namely, Of procuring a competent Number of Saylors to Man Their Majeſties Fleet, on all occaſions, without impreſſing any at Sea; whereby the greateſt part of the afore-mentioned Charges to Their Majeſties will be ſaved, which is worth while to be conſidered of, and practiſed: For 'tis evident, That one Third Part
+<pb n="26" facs="tcp:43797:14"/> of the beſt Sea-men in <hi>England,</hi> have by one means or other avoided being in the King's Service this War. And 'tis not, that Sea-men are wanting in <hi>England,</hi> that the King's Ships are ſo ill Mann'd, as generally they are; and that ſo much unneceſſary Expence dayly attends the Manning the King's Ships; but only for want of a due Method for the ſame, and a Penalty to be inflicted on the hinderers of its due Execution: For
+'tis ob<g ref="char:EOLhyphen"/>ſerv'd, That both Juſtices of the Peace, Mayors, Bayliffs, Conſtables, <hi>&amp;c.</hi> for the moſt part have been too remiſs in their Duties, in not aſſiſting thoſe Officers (ſent to preſs) as they ought; for inſtead of routing Sea-men out of their Coves and hiding Places, many of them ('tis to be feared) have rather concealed or countenanced many Perſons, who ought, and were fit to be in the Service.</p>
+               <p>Prop. 2. <hi>They ſhall bring all the Perſons ſo liſted (ex<g ref="char:EOLhyphen"/>cept</hi> 
+                  <note place="margin">Liſted Sea<g ref="char:EOLhyphen"/>men to Ap<g ref="char:EOLhyphen"/>pear before the Naval Of<g ref="char:EOLhyphen"/>ficer.</note> 
+                  <hi>what are at Sea) unto the Naval Officer, on ſome pre<g ref="char:EOLhyphen"/>fixt days, that he may ſee them, and alſo ſearch into the Truth of what the Magistrates ſhall have certifyed concern<g ref="char:EOLhyphen"/>ing them on the Lists: Which ſaid Naval Officer, together with an other Juſtice of Peace, and a Surgeon, ſhall examine into the Abilities and Conditions of each Perſon returned on the Lists, who ſhall pretend unfitneſs for the Sea, by rea<g ref="char:EOLhyphen"/>ſon of Hurts, Wounds, Bruiſes, or any other Accidents of that nature; and according as they ſhall find the matter, ſhall either acquit, or continue them on the Liſts, as Per<g ref="char:EOLhyphen"/>ſons qualified for the King's Service.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 2. The appearing of the ſaid perſons themſelves, will oblige the Magiſtrates and other Officers to be as ex<g ref="char:EOLhyphen"/>act as poſſible they can in giving in perfect Liſts, as is re<g ref="char:EOLhyphen"/>quired, for fear of being found out if they do otherwiſe: For Seamen in every individual place, being for the moſt part acquainted one with another, and miſſing any one, they know who ought to appear before the Naval Officer
+<pb n="27" facs="tcp:43797:14"/> as well as themſelves, will be apt to diſcover the ſame. As for the examination by the Naval Officers, Juſtices of the Peace, and Surgeons, into the Qualities and Condition, of any, pretending unfitneſs for the Sea; it is very reaſona<g ref="char:EOLhyphen"/>ble, that thoſe who are really unfit for the Sea-ſervice in Men of War, be not charged on the Liſts; for if ſo, the Liſts would not only be filled with many unquallified per<g ref="char:EOLhyphen"/>ſons, but Their Majeſties diſappointed, by depending on ſo many able men, from ſuch and ſuch places on any occaſi<g ref="char:EOLhyphen"/>on: When perhaps, a great part of them were wholly un<g ref="char:EOLhyphen"/>fit for that ſervice.</p>
+               <p>Prop. 3. <hi>That all thoſe Maſters of Ships, who ſhall be thought</hi> 
+                  <note place="margin">Maſters of <hi>Merchant Men</hi> who ſhall be Exempted from going to Sea, to find an able Man, or Pay 5 <hi>l.</hi>
+                  </note> 
+                  <hi>fit to be exempted from going into the King's Service, ſhall nevertheleſs each of them ſend an able Sea-man in his room, who ſhall be approved of by the ſaid Naval Officer; and whoſe turn it is not to go into the Kings Service that Year, or otherwiſe, to pay</hi> Five Pounds <hi>into the Naval Officers hands, ſo oft as 'tis his turn to go on Board the King's Ships: But in caſe of failure of Payment within the Six Weeks, wherein it ought to be Paid, then to forfeit</hi> Twenty Pounds, <hi>to be levied by Diſtreſs and Sale of the Offenders Goods, or as the Parliament ſhall think meet to Order. Farther, that every perſon going out of his turn, ſhall be entred in the Registers Books, upon whoſe Account, and in whoſe room he goes; and to be liable to ſuch puniſhment for any fault by him committed, as any other perſon who goes for himſelf: Lastly, That the Naval officer ſhall enter in<g ref="char:EOLhyphen"/>to his Book of Accounts, all ſuch Sums of Money as he ſhall receive for any forfeitures from any perſon, and the ſame ſhall tranſmit Monthly (or as oft as ſhall be required) to the General Officer in</hi> London, <hi>upon Pain of Loſing his Im<g ref="char:EOLhyphen"/>ploy; or to be Fined as the Parliament ſhall direct for his offending therein.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 3. This can't be thought hard by Maſters of
+<pb n="28" facs="tcp:43797:15"/> Merchant Men; for in <hi>France,</hi> tho' Gentlemen are exemp<g ref="char:EOLhyphen"/>ted from paying Taxes, yet they are obliged to ſerve the King in their own perſons: And the payment of <hi>Five Pounds,</hi> or ſending an able Man fit for the Sea, can't be thought much charge to them, ſince it will not come to a mans turn above once in Three Years. One 3d. part of the Seamen which have not been in the Service this War, together with thoſe who are willing to continue on Board, and what will go Voluntarily, being thought ſuf<g ref="char:EOLhyphen"/>ficient to Man the King's Ships; but if all Maſters of Ships and Veſſels, and pretenders to it, ſhould be exempted from ſending a Man, or paying <hi>Five Pounds</hi> as afore, it muſt <note place="margin">Why Maſters of Merchant-Men ſhould find an able Man, or pay <hi>Five Pounds.</hi>
+                  </note> fall much the harder on the Hawl-bowlings; and under this pretext we ſhould have the beſt part of <hi>Fourty Thou<g ref="char:EOLhyphen"/>ſand</hi> Men Protected; It being evident that moſt Ships &amp; Veſſels has protected Three Maſters: For one being known to be a Maſter, is not queſtioned, and another getting a Protection for the ſame Ship, or Veſſel, as Maſter of her, is by that means exempted from being preſt into the King's Service; &amp; a Third, by carrying a Charter party in his Poc<g ref="char:EOLhyphen"/>ket keeps himſelf clear. Nay, the very Oyſter-Cocks and other ſmall Craft (as well as Ships, and other great Veſ<g ref="char:EOLhyphen"/>ſels) have found out a way, to Free themſelves from the King's Service, as hath not long ſince been diſcovered by a Captain of a Man of War. For 'tis uſual, as by ſome of their own company has been ingenuouſly acknowledged, for them to carry Bills of Sale in their Pockets, formally made for ſuch and ſuch Ships, as if their own, and were really Maſters; when indeed they were not, and only con<g ref="char:EOLhyphen"/>trived for to cheat the Preſs-Maſters, and to keep them<g ref="char:EOLhyphen"/>ſelves out of the Service: But this Method of obliging Maſters to ſend an able Sea-man, or to pay <hi>Five Pounds</hi> as afore, will be the ready way to prevent this, or other like Cheats for the future.</p>
+               <pb n="29" facs="tcp:43797:15"/>
+               <p> Prop. 4. <hi>Every Officer or Officers, who ſhall refuſe or neg<g ref="char:EOLhyphen"/>lect</hi>
+                  <note place="margin">
+                     <hi>Penalty</hi> on ſuch <hi>Officers</hi> as ſhall not bring in true Liſts.</note> 
+                  <hi>to bring in ſuch Liſt or Liſts as before is directed; ſhall be lyable to ſuch Penalty as the Parliament ſhall think fit to impoſe on them, not exceeding</hi> Twenty Pounds <hi>if they ſo pleaſe; and for every perſon that ſhall be found in their re<g ref="char:EOLhyphen"/>ſpective Towns, Villages, Hamletts,</hi> &amp;c. <hi>after the Six weeks are expired, wherein the Liſts ought to be given in, and did at the ſame time belong to any of their reſpective places, and ought to have been Liſted; and that it doth appear by good evidence to be the ſaid Officers fault, every Officer and Officers ſo Offending; ſhall for every perſon ſo omitted, forfeit</hi> Ten Pounds. <hi>But if it appears that the neglect is in the Inhabitants, and that they have by any ways or means concealed any ſuch Perſons from the knowledge of the ſaid Officers, whereby they could not be liſted; then every ſuch Inhabitant ſhall forfeit the ſaid Sum of</hi> Ten Pounds, <hi>to be levied by Diſtreſs and ſale of the Offenders Goods, or by a<g ref="char:EOLhyphen"/>ny other means as the Parliament ſhall appoint: One Moye<g ref="char:EOLhyphen"/>ty thereof to be given to the Informer, and the other to be employ'd in the bringing up of Youth for Sea-Service, or for the Cheſt at</hi> Chattham.</p>
+               <p>
+                  <hi>Ratio</hi> 4. The Penalty propoſed to be Inflicted on ſuch Officers as ſhall not comply with theſe Propoſitions to the utmoſt of their powers, and alſo on Inhabitants for con<g ref="char:EOLhyphen"/>cealing Perſons from being Regiſtered; can't be thought hard or unreaſonable, ſince the deſign thereof is not in<g ref="char:EOLhyphen"/>tended for their Money, but only to oblige them to a Performance of their Duties, as herein is required; which if obſerved, they themſelves will be Sharers in the advan<g ref="char:EOLhyphen"/>tage, which thereby will accrue to the Nation in gene<g ref="char:EOLhyphen"/>ral: For by this Method, the King will be ſupplied with Able and Dareing Sea-men, inſtead of Raw Lads, and Per<g ref="char:EOLhyphen"/>ſons never at Sea, without the great charge of Preſſing, which the King is Yearly at; hereby alſo our Ships will
+<pb n="30" facs="tcp:43797:16"/> be in a condition of Defending themſelves better than ma<g ref="char:EOLhyphen"/>ny has formerly done, and Offending the Enemy. For one great Reaſon, nay, the greateſt which can be given; for the Loſs of moſt of our Men of War, taken by the E<g ref="char:EOLhyphen"/>nemy, is, that our Ships have been very ill Man'd; which by this Method, being better provided for, the Enemy will ('tis to be hoped) find the advantage on our ſide, to their Expence and Coſt.</p>
+               <p>Prop. 5. <hi>If any Victualler ſhall entertain any Sea-men, Water-men,</hi> &amp;c. <hi>a Fortnight in his houſe being not Registred, and doth not diſcover the ſame to the Naval Officer, or his Clerks, or to the Magiſtrates and Officers who ought to bring in the Liſts of them; being convicted of the ſame, ſhall</hi> (ip<g ref="char:EOLhyphen"/>ſo <note place="margin">Victuallers not to Enter<g ref="char:EOLhyphen"/>tain Sea-men.</note> facto) <hi>forfeit</hi> Five Pounds <hi>to be paid and recovered as before is provided for other Forfeitures, and alſo loſe his Li<g ref="char:EOLhyphen"/>cence, and for the future be utterly diſabled to have another: If he be a Houſe-keeper only, to forfeit</hi> Five Pounds, <hi>One Moyety to be given to the Informer, and the other to the uſes aforeſaid.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 5. The Penalty to be Impoſed on the Victuallers, can't be thought to be a Severity towards them; for of late Years many able Sea-men have exerciſed that Calling as a Pretext to keep them from going to Sea: Many of which Houſes are prejudicial to the King's Service, by en<g ref="char:EOLhyphen"/>tertaining the Sea-men in their Houſes, when they ought to be on Board; and not only ſo, but many times con<g ref="char:EOLhyphen"/>cealing them from the Officers of the Ships when they come to fetch them on Board, whereby many of them are left behind, and conſequently Prick't Run, to the great hindrance, and almoſt undoing of many Families; ſo that if thoſe be themſelves caught in the Corn, they ought to be put into the Pound: As for Houſe-keepers, if they will hazard the Penalty, and may avoid it, they can't grum<g ref="char:EOLhyphen"/>ble if they ſuffer for their own Folly.</p>
+               <pb n="31" facs="tcp:43797:16"/>
+               <p> Prop. 6. <hi>That no Maſter Shipwright, Caulker, Sail-maker, or Rope-maker, do employ or entertain any Shipwrights, Caul<g ref="char:EOLhyphen"/>kers, Sail-makers, or Rope-makers, into their Works or Ser<g ref="char:EOLhyphen"/>vice, but what they know to be Regiſtred, or doth ſo appear</hi> 
+                  <note place="margin">No Maſter Shipwright, <hi>&amp;c.</hi> to Enter<g ref="char:EOLhyphen"/>tain unregi<g ref="char:EOLhyphen"/>ſtred Sea-men.</note> 
+                  <hi>by Certificate under the hand and Seal of the Naval Officer, where he or they were Regiſtred; upon the Penalty of forfei<g ref="char:EOLhyphen"/>ting</hi> Ten Pounds <hi>for each man which ſhall be ſo imploy'd: Except all thoſe Apprentices who have not ſerved</hi> 5 <hi>Years, after which time of Service, they ſhall be Regiſtred likewiſe. And if any Shipwright, Caulker, Rope maker, or Sail maker, ſhall neglect to give in his Name to be Regiſtred within Six Weeks as aforementioned; and ſhall preſume to work in Merchants-yards, after the time they ought to be Regiſtred, and are not, to forfeit</hi> 20 s. <hi>a Month for every Month they ſhall ſo ſtand out, to be recovered as aforeſaid: One Moyety to be given to the Informer, and the other to the uſes a<g ref="char:EOLhyphen"/>foreſaid.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 6. By this means the Number of all thoſe kinds of Trades-men will be known in general, and in particu<g ref="char:EOLhyphen"/>lar, how many are at each individual place; ſo that up<g ref="char:EOLhyphen"/>on the want of any Number of them, to diſpatch any Works requiring their aſſiſtance, 'tis but to ſend to the Naval Officers, who ſhall be impowr'd to ſend ſuch Per<g ref="char:EOLhyphen"/>ſons; and ſo many as are deſired at a very ſhort warn<g ref="char:EOLhyphen"/>ing: And whatſoever perſon of them being prickt down to ſerve in any Yards or Ships, (and having notice thereof) who ſhall refuſe or neglect to ſerve according as he ſhall be Ordered; ſhall from that time be lyable to ſerve on Board the King's Ships during the War: Several of the Advantages attending this Service, being before hinted in the firſt Reaſon, for Regiſtering Ship<g ref="char:EOLhyphen"/>wrights, Caulkers, <hi>&amp;c.</hi> I ſhall forbear to trouble the Reader any further therewith in this Reaſon, altho' both comes far ſhort of what might be ſaid thereto.</p>
+               <pb n="32" facs="tcp:43797:17"/>
+               <p> Prop. 7. <hi>That the Naval Officers in the Country (upon their Receipt of any Orders from the Lords of the Admi<g ref="char:EOLhyphen"/>ralty (for the ſpeedy ſending any Number of Sea-men from any Port or Ports under their Care and Management, on Board any Ship or Ships, as ſhall be appointed) ſhall cauſe the ſame forthwith to be put in Execution; by cauſing Lists of all Perſons Names ſo ordered to go to Sea, to be affixed on</hi> 
+                  <note place="margin">Timely notice to be given to Sea-men Or<g ref="char:EOLhyphen"/>dered for Men of War.</note> 
+                  <hi>the reſpective Church Doors where they live, and alſo on all Market-Houſes, and at all publick places which ſhall be thought moſt proper for the Notifying the ſame to the Inhabitants; with the time inſerted therein when they are to go, and on Board what Ship: And every Sea-man which ſhall be found to have refuſed or neglected going on Board as he ought, and whereto he was appointed, upon his being diſcovered and apprehended, ſhall be ſent on Board one of the King's Ships; and from that time be obliged to continue in the Service du<g ref="char:EOLhyphen"/>ring the whole War, without benefit of being relieved, by taking turns with thoſe who ſhall duly obſerve Orders: And whoſoever ſhall diſcover any Sea-man ſo Offending, ſhall Re<g ref="char:EOLhyphen"/>ceive</hi> 40 s. <hi>Reward from the Naval Officer, immediately af<g ref="char:EOLhyphen"/>ter the apprehending and bringing the ſaid Offender before the Naval Officer, or ſome Juſtice of the Peace ſo as that he may be ſecured: Which</hi> 40 s. <hi>ſhall be ſtopt out of the first Pay that ſhall grow due to the ſaid Sea-man, after his being ſent on Board; the like Reward to be given to any Perſon who ſhall cauſe any Deſerter from his Ship to be ap<g ref="char:EOLhyphen"/>prehended.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 7. It is very neceſſary, That the Naval Officers do obſerve, and duly put in Execution, all ſuch Or<g ref="char:EOLhyphen"/>ders as they ſhall from time to time receive from the LORDS of the ADMIRALTY; and that Liſts of all Mens Names Ordered for the Sea, with the time when, and on Board what Ship each Sea-man is to go, be time<g ref="char:EOLhyphen"/>ly publiſhed, that the Sea-men may have no pretence
+<pb n="33" facs="tcp:43797:17"/> of Excuſe, by ſaying, they did not know it to be their Turns; and having ſufficient Notice, they may timely provide themſelves with neceſſaries. Further, it being known in publick, who are to go, there will be no hopes of ſhelter for them to ſtay on ſhoar: Neither can they go into Merchants Service, a Penalty being to be in<g ref="char:EOLhyphen"/>flicted on all thoſe Maſters of Merchant-men, who ſhall carry any of thoſe Ordered for Men of War; and either thoſe, whoſe Turns it is not to go into the Service that year, will diſcover them, for fear of being ſent them<g ref="char:EOLhyphen"/>ſelves, if thoſe men ſhould be wanted, or elſe others for the Reward ſake will impeach them; ſo that being un<g ref="char:EOLhyphen"/>ſafe and uneaſie every way, 'tis preſumed, that there will not be many, but what will comply with the Orders reſpecting them.</p>
+               <p>Prop. 8. <hi>That a due Care be taken to relieve all thoſe Seamen (who ſhall comply with ſuch Orders as are ſent for their going on Board) yearly, or as near to that Time as poſſibly it may be done, where 'tis deſired; and that at the time of their Diſcharge, they be payd off: But as for thoſe</hi> 
+                  <note place="margin">Encourage<g ref="char:EOLhyphen"/>ment for Sea<g ref="char:EOLhyphen"/>men.</note> 
+                  <hi>who by reaſon of a Forreign Voyage, ſhall ſerve longer than one year ſucceſſively, to be allowed</hi> 2 s. 6 d. per Month <hi>for the Second Year, as an Addition to their former Wages; and for the Third Year,</hi> 5 s. per Month, <hi>for every Month they ſhall ſerve more than they are required by this Method, or what more the Parliament ſhall think fit.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 8. The keeping Touch with the Seamen, by a due relieving them, as is propoſed, and likewiſe of pay<g ref="char:EOLhyphen"/>ing them off at their Diſcharge, will be a great Obliga<g ref="char:EOLhyphen"/>tion to them to go on Board, as they ſhall be directed, without Trouble or Charge; to the forwarding where<g ref="char:EOLhyphen"/>of, 'tis not to be doubted, but that their Wives will con<g ref="char:EOLhyphen"/>tribute their Aſſiſtance, when they are at ſome certain<g ref="char:EOLhyphen"/>ty of having their Husbands a ſhore at ſuch and ſuch
+<pb n="34" facs="tcp:43797:18"/> times, or thereabouts, with their Money in their Pockets: As for thoſe who ſhall ſerve above their Year, and could not be relieved, by reaſon of their Ships being in Forreign Parts, 'tis but reaſonable, that they be allowed the ſaid additional Wages, as an Encouragement to, and Reward for, their continuance in the Service, more than the time they ought according to this Method.</p>
+               <p>Prop. 9. <hi>That every Seaman, within ſix weeks after his Arrival from any Voyage (and being out of the Kingdom at the time appointed for the firſt Liſting of Seamen) ſhall</hi>
+                  <note place="margin">Seamen to Liſt themſelves at their Return from Sea, be<g ref="char:EOLhyphen"/>ing not Regi<g ref="char:EOLhyphen"/>ſtred before.</note> 
+                  <hi>List himſelf in the reſpective place where he intends to in<g ref="char:EOLhyphen"/>habit, or otherwiſe, to be lyable to the ſame Penalty as is to be inflicted on thoſe Seamen, who ſhall refuſe or neglect to go in their Turns, after a due Summons thereunto: And for the more effectual performance of this Propoſition, the Naval Officer, or his Clerk, ſhall go on Board every Ship and Veſſel, arriving at any Port within their Precincts; and there ſhall take an impartial Account of the Maſters and Ships Companies Names; as alſo of their Reſpective Ages,</hi> &amp;c. <hi>as is directed in the Listing Seamen aforementioned; the which ſhall be tranſmitted to the General Office at</hi> Lon<g ref="char:EOLhyphen"/>don: <hi>That accordingly from thence, the ſaid General Of<g ref="char:EOLhyphen"/>fice may ſend a Copy thereof to the Naval Officers at the reſpective Ports whereto they belong: But if any Seaman has a Deſire (after his being Registred) to alter his Place of Abode, and to go into another County; upon his ap<g ref="char:EOLhyphen"/>plication to the Naval Officer of that Place, by whom he is firſt Regiſtred, he ſhall have a time allowed him, proporti<g ref="char:EOLhyphen"/>onable to the diſtance of the Place where he deſigns to inha<g ref="char:EOLhyphen"/>bit, not exceeding a Month: And upon his bringing a Cer<g ref="char:EOLhyphen"/>tificate from the Naval Officer of that Place whereto he in<g ref="char:EOLhyphen"/>tends to remove of his being Regiſtred there, he ſhall be diſ<g ref="char:EOLhyphen"/>charged out of the Books, where he was last Regiſtred before that.</hi>
+               </p>
+               <pb n="35" facs="tcp:43797:18"/>
+               <p> 
+                  <hi>Ratio</hi> 9. This Method will be of uſe, by degrees, to get all our Seamen Liſted, whereby a more regular Care may be taken, for relieving and exchanging the Seamen in due Order, according to the Methods propoſed: And the Penalty to be inflicted on Seamen for their Neglect, will be a Spur, both to oblige and haſten them to a com<g ref="char:EOLhyphen"/>plyance with ſuch Orders, as they ſhall find themſelves tyed to obſerve: The Naval Officer or his Clerk going on Board as aforeſaid, will much forward this Work; and likewiſe they will hereby be able to give an Ac<g ref="char:EOLhyphen"/>count thereof to the General Office at <hi>London,</hi> which may tranſmit Copies to the particular Places, where<g ref="char:EOLhyphen"/>unto theſe Seamen ſay they do belong; that Care may be taken for Regiſtring them in their proper Counties; the giving Liberty to Seamen (after their being Regi<g ref="char:EOLhyphen"/>ſtred) to remove into another Place, upon their ac<g ref="char:EOLhyphen"/>quainting the Naval Officer therewith, by whom they were firſt Regiſtered, is but reaſonable; becauſe other<g ref="char:EOLhyphen"/>wiſe it would be an Impoſition and hindrance to them, not to be permitted to Live where they do apprehend it to be moſt for their Advantage.</p>
+               <p>Prop. 10. <hi>That every Sea-man who ſhall be abſent with<g ref="char:EOLhyphen"/>out leave, at the time of his reſpective Ships being preparing for a Careen, or to go into a Dock, or to come out of a Dock,</hi> 
+                  <note place="margin">Seamen to attend at the Fitting out their Ships.</note> 
+                  <hi>or at the time of her taking in, or putting out her ſtores, or at the time of any other ſervice, for which Labourers are fain to be hired to do the ſame, for want of the attendance of the Sea-men belonging to the ſaid Ship; every ſuch Sea<g ref="char:EOLhyphen"/>man to forfeit</hi> Forty Shillings <hi>for ſuch his neglect, to be ſtopt out of his Wages the next pay, that ſhall become due to him. Further, that every Victualler, who ſhall Entertain any Seamen in his houſe between Sun &amp; Sun, at ſuch time, or times, as a neceſſi<g ref="char:EOLhyphen"/>ty of buſineſs requires his attendance and Labour on Board, and not having Leave given him by his Commanders, or by one</hi>
+                  <pb n="36" facs="tcp:43797:19"/> 
+                  <hi>of the Lieutenants, in writing under his Hand, to forfeit</hi> Twenty Shillings <hi>for every time they offend in that kind; and Houſe-keepers the ſame Forfeiture: One Moyety there<g ref="char:EOLhyphen"/>of to the Informer, and the other to the uſes aforeſaid; to be recovered by Diſtreſs and Sail of the Offenders goods, by Vertue of a Juſtices Warrant for the ſame, or by any other means, as the Parliament ſhall think fit.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 10. 'Tis but reaſonable that Sea-men ſhould be obliged to give due Attendance on Board their Ships, eſpecially at ſuch times, as the King's Service do more im<g ref="char:EOLhyphen"/>mediately call for their Aid and Aſſiſtance; for 'tis a ſhame that Men ſhould be born in Pay and Victuals on Board the King's Ships, and to be Loytring on ſhore, when there is moſt need of them on Board; and by theſe neglects it ſo happens, that the Commiſſioners of the Yards have been obliged to hire a conſiderable number of Sol<g ref="char:EOLhyphen"/>diers to do that work, which the Sea-men ought to do whereby the King is at a double Charge: For if Seamen dic but ſtand to their work, a Cruſing-Ship might be cleaned, &amp; in, and out of Harbour in 4. or 5. days, as has former<g ref="char:EOLhyphen"/>ly been done, Wind and Weather permitting; which now is oft-times a Month or Two in compleating: And if Saylors will be abſent from their buſineſs, at ſuch times as they ſhould give attendance, if they pay for their neg<g ref="char:EOLhyphen"/>lects, 'tis only themſelves that are blameable. As for the Victuallers and other Houſe-keepers, if they will perſiſt to entertain Sea-men, when warn'd to the contrary, 'tis meet that they pay for ſuch their Contempt of Orders, and for Encouraging Seamen to ſtay on Shoar, when the King's buſineſs requires them on Board.</p>
+               <p>Prop. 11. <hi>That all Seamen, (after the publication of the Liſts as afore is mentioned) who ſhall not find themſelves ap<g ref="char:EOLhyphen"/>pointed</hi> 
+                  <note place="margin">What Seamen have Liberty to go in Mer<g ref="char:EOLhyphen"/>chant Men.</note> 
+                  <hi>for Men of War thereby, for that Year; may be at Liberty to go into Merchants Service, without being in any</hi>
+                  <pb facs="tcp:43797:19"/> 
+                  <hi>wiſe Moleſted in the proſecution of their Voyages that Year; but at their return from their Voyages, if they ſhall arrive at any other Port, except what they fitted out from (their Year being expired) then they ſhall be obliged to repair un<g ref="char:EOLhyphen"/>to the Port where they were Regiſtered forthwith, that they may take their turns duly with thoſe in Men of War.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 11. Thoſe Sea-men who are free to Comply with, and obſerve Orders for the going on Board the King's Ships in their turns, and mutually to relieve one another, ought to be Encouraged; and to have all Immunities and Pri<g ref="char:EOLhyphen"/>viledges proper, to be allowed them in order thereunto: For 'tis allowed on all Hands, that our Ships of War, be<g ref="char:EOLhyphen"/>ing well Mann'd with willing and able Sea-men, may rightly be termed the <hi>Bulwark,</hi> or <hi>Brazen-Wall of the Na<g ref="char:EOLhyphen"/>tion:</hi> And who, but an enemy to himſelf, would daſh that Armour to pieces which is able to defend him from the Violence, and Mercileſs Cruelty, of a Subtil and Powerful Adverſary. But the obliging them to return to their proper Ports, when their time, in Merchants Ser<g ref="char:EOLhyphen"/>vice is expired, which is allowed them, in order to their taking turns on Board the Men of War, is but reaſona<g ref="char:EOLhyphen"/>ble; and only an inducing them to an obſervance of that Golden Rule; <hi>Do as ye would be done unto.</hi>
+               </p>
+               <p>Prop. 12. <hi>'Tis humbly propoſed, That no Maſter of any Merchant Ship, or Veſſel, being above</hi> 50. <hi>Tun, do Sail from any Port in</hi> England, <hi>until he has entred into Bond of</hi> 500 l. <hi>and all Masters of Ships, or Veſſels under</hi> 50. <hi>Tun, into</hi>
+                  <note place="margin">Maſters of <hi>Merchant Men</hi> Obliged to bring back their men, <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>Bonds of</hi> 100 l. <hi>with each of them two able Sureties for the true performance of the following Articles,</hi> (viz.) <hi>That they ſhall not carry any Perſon, or Perſons to Sea with them, above the Age of Sixteen Years, but what are Regiſtred by ſome Naval Officer appointed for the ſame; who ſhall like<g ref="char:EOLhyphen"/>wiſe Certify under his hand and Seal, That the ſaid Perſons are ſuch as are not returned on the Liſts, for the King's</hi>
+                  <pb n="38" facs="tcp:43797:20"/> 
+                  <hi>Service that Year; but have their Liberty to go in Mer<g ref="char:EOLhyphen"/>chants Ships, during the ſpace of one Year, and no longer, till it comes to their turns again.</hi> 2. <hi>That at the return of any Ship from her Voyage, to any Port in</hi> England, <hi>or</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>the Maſter, or whoever has the Charge of the Ship, ſhall immediately ſend an account (of what men are brought back) to the Naval Officer, whence he Shipt off his men and if in any Forreign Place, any Perſon or Perſons ſo Regi<g ref="char:EOLhyphen"/>stred do run away, then the Maſter of that Ship or Veſſel whereto he did belong, ſhall bring a Certificate under the Hand &amp; Seal of the Conſul of that place: That the ſaid Maſter made affidavit before him, that at ſuch a Time, and at ſuch a Place, ſuch a Perſon (inſerting his Name in the affida<g ref="char:EOLhyphen"/>vit) ran away, and that he did his endeavour to get him again, by requiring the Conſuls Aſſistance therein. But for want of ſuch Testimonial, to forfeit</hi> Ten Pounds <hi>at the leaſt for every Perſon he ſhall not bring back, except they have died in the Voyage, or any other unavoidable accident have hap<g ref="char:EOLhyphen"/>pened, of which every Master ſhall give very good and ſufficient proof; one Moyety of all forfeitures to be paid to the Informer, by the Naval Officer upon the diſcovering the ſame, by ſuch juſt proof as ſhall be ſufficient to Convict the Offender, the other to the uſes afore-mentioned.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 12. The obligation required from Maſters of Mer<g ref="char:EOLhyphen"/>chant Men can't ſeem to be an Impoſition on them, or Novelty to them; becauſe the ſame Method is pract<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſed in <hi>Barbadoes</hi> and <hi>Jamaica,</hi> &amp;c. with double the Penalty for ſmaller Veſſels, to prevent the carrying off Servants, and other Perſons from the Iſland, without the Gover<g ref="char:EOLhyphen"/>nours Paſs, as thoſe Maſters who uſe the <hi>Weſt-Indies,</hi> ve<g ref="char:EOLhyphen"/>ry well know. In the next place, the Regiſtring Sea-men can't prejudice, or in any caſe be Injurious to Merchant<g ref="char:EOLhyphen"/>dizing; becauſe after a Competent Number of Sea-men is allowed, and prickt down to ſerve on Board the King's
+<pb n="39" facs="tcp:43797:20"/> Ships, the remainder will be free, and without the ha<g ref="char:EOLhyphen"/>zard of being impreſt, to ſerve on Board the Merchant Men, and not to ſculk up and down as they do now, and wear protection Beards, whereby they look as if they were <hi>Fourſcore</hi> Years old, when indeed they are not <hi>Forty,</hi> ſome of which are not 6. Months in a Year either on Board the King's Ships, or Merchant Men. By this means the ſaid Maſters may Negotiate their affairs without inter<g ref="char:EOLhyphen"/>ruption, or hazard of having their Men preſt from them, which practiſe hath many times proved of fatal conſequence to the Merchants, as before is diſcourſed. 2. As for their being obliged to bring back thoſe men they carry with them into Forreign Parts, or to give a Satisfactory ac<g ref="char:EOLhyphen"/>count, what is become of them, at the return of every Maſter home to <hi>England,</hi> &amp;c. can't be thought hard: Becauſe there is an Act of Parliament ſtill in Force, to oblige maſters to the ſame; tho' time, and defect of duty in thoſe who ought to ſee the ſame executed, has almoſt worn out its remembrance. This will alſo be one way to keep our Sea-men together, and not giving them the opportunity of ſerving Forreign Princes or States, which too often happens; for Maſters oft-times ſelling their Ships and Veſſels in Forreign Places, do thereby give a provoca<g ref="char:EOLhyphen"/>tion to their men to ſerve in other Countries, by being diſ<g ref="char:EOLhyphen"/>appointed of a paſſage home, which by this will be prevent<g ref="char:EOLhyphen"/>ed: And the more Sea-men are engaged to ſerve under their Natural and Lawful Prince, the more will fall to the Merchants ſhare; and conſequently their Wages will be leſ<g ref="char:EOLhyphen"/>ſened: For 'tis obſerved and agreed on at all hands, that a ſcarcity (and not a plenty of any Commodity) raiſeth the Price. The bringing a Teſtimonial can't be hurtful to them; becauſe that will juſtifie for them, that they have well and honeſtly complyed with what was required of them: And that they have not incurred any Penalty or
+<pb n="40" facs="tcp:43797:21"/> Forfeiture for any neglect thereof. The Moyety propo<g ref="char:EOLhyphen"/>ſed to be given to the Informers, will make them look out ſharp, and the Maſters themſelves be Circumſpect, how they take any Unregiſtred Perſons with them, or any other, but what may Lawfully be carried without prejudice to the King's ſervice, or themſelves, ſince they will have a great many eyes over them, who for the reward ſake, will uſe their utmoſt endeavours for the diſcovery of any ſuch Offender. Further, That every Sea-man, whoſe turn it is to go on Board Men of War, and ſhall be found perſona<g ref="char:EOLhyphen"/>ting another, (who according to thoſe methods) might ſtay on ſhoar, or go into Merchant men, upon his being convicted of the ſame, ſhall forfeit to the Informer 40 <hi>s.</hi> to be paid to him by the Naval Officer immediately after ſuch diſcovery, and ſtopt out of the firſt wages which ſhall become payable to him for his ſervice on Board any of the Kings Ships, and likewiſe be obliged to ſerve therein du<g ref="char:EOLhyphen"/>ring the War.</p>
+               <p>Prop. 13. <hi>That all Juſtices of the Peace, Mayors, She<g ref="char:EOLhyphen"/>riffs, Bayliffs, Conſtables, Headboroughs, Tithingmen, and the like, be ſtrictly required, to apprehend all Seamen whom they ſhall find inhabiting in any Inland Counties, where no</hi> 
+                  <note place="margin">Juſtices of the Peace, to take up Sea-men &amp; Vagrant Per<g ref="char:EOLhyphen"/>ſons.</note> 
+                  <hi>Naval Officer is appointed; and alſo all ſturdy Beggars, va<g ref="char:EOLhyphen"/>grant Perſons, Deer-ſtealers, ſuch as rob Fiſh-ponds, Coney-Warrens, Dove-houſes, or the like; and that they do care<g ref="char:EOLhyphen"/>fully ſend them to the next Naval Officer, to be ſent on Board Men of War, or diſpoſed of otherwiſe, as ſhall be thought fit.</hi>
+               </p>
+               <p>
+                  <hi>Ratio</hi> 13. The obliging Juſtices of the Peace, Mayors, Bayliffs, <hi>&amp;c.</hi> to apprehend, and ſend thoſe Perſons laſt mentioned, unto the Naval Officer, in order to their be<g ref="char:EOLhyphen"/>ing ſent on Board the Men of War, will be of great Ser<g ref="char:EOLhyphen"/>vice to the Country: For hereby Gentlemen will not only preſerve their Game to themſelves, and the Com<g ref="char:EOLhyphen"/>mon
+<pb n="41" facs="tcp:43797:21"/> ſort of People be rid of a great many dangerous Perſons, who only lurk about, and watch Opportunities to break their Houſes and rob them of what they have perhaps gotten with great Labour and Induſtry: But the King will have their Service on Board, which may be of uſe there, though not on ſhore; for many of thoſe will make Cooks-mates, Shifters and Swabbers, <hi>&amp;c.</hi> which muſt be had on Board as well as other Men; and doubtleſs many of them, when they are broke from their loitering and idle Courſes, and ſee themſelves con<g ref="char:EOLhyphen"/>fin'd on Board, may take up, and make good Sailers, but if they are permitted to ſtay on ſhore, and to follow the dictates of their own Inclinations; nothing but Miſ<g ref="char:EOLhyphen"/>chiefs and Inconveniencies of many kinds muſt be ex<g ref="char:EOLhyphen"/>pected from them.</p>
+               <p>
+                  <hi>Laſtly,</hi> The Merchants, Shipwrights, Caulkers, Sail<g ref="char:EOLhyphen"/>makers, and Ropemakers in and about the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> do not, I preſume, need any other Motives to in<g ref="char:EOLhyphen"/>duce them to a Willingneſs, to have the afore-mention<g ref="char:EOLhyphen"/>ed Propoſitions put in Execution, then this Conſiderati<g ref="char:EOLhyphen"/>on <note place="margin">
+                     <hi>Why the Merchants of</hi> London, <hi>and other Perſons of ſeveral Cal<g ref="char:EOLhyphen"/>lings are obliged to forward theſe Me<g ref="char:EOLhyphen"/>thods.</hi>
+                  </note> of their being more eſpecially incommoded, by the continual alarms of Preſſing, which lies much harder on them, than on Places farther diſtant. For 'tis very rare for the City of <hi>London</hi> and Places adjacent, to be free from the Preſs a Month together in a Years time; for fear of which, the Seamen, and others of the afore<g ref="char:EOLhyphen"/>mention'd Callings, do in ſuch Numbers ſo abſcond and hide themſelves, that thereby the particular Wages of Seamen, Shipwrights, Caulkers and the like, are ſo en<g ref="char:EOLhyphen"/>haunſed that their Wages are almoſt doubled—Beſides the loſs which is ſuſtain'd for want of having Men on all occaſions for their Works and Services, which Incon<g ref="char:EOLhyphen"/>veniencies, being by theſe Methods likely to be removed, the Wages brought lower, and Buſineſs carried on with
+<pb n="42" facs="tcp:43797:22"/> freedom, and without Interruption, muſt needs meet with a kind Acceptance, and with the Concurrence and joint Endeavours of the Merchants, Maſters of Ships and others concern'd herein, to promote the carrying on the ſaid Methods, and Eſtabliſhing the ſame.</p>
+               <p>But ſome Perſons, haply may take an occaſion to reflect, and ſay, that if the whole matter had been con<g ref="char:EOLhyphen"/>tracted into fewer words, it would have done much better. To which I anſwer,
+'tis true, I have ſtudied for no Rhetorick to garniſh it, or Flouriſhes of Oratory to ſet it out, thoſe being things to which I am altogether a Stranger; being only a well wiſher to a Sailer, and not a Nice one neither. In the preceeding Methods, I have not obſerved quaintneſs of Expreſſions; which probably might have better pleaſed the Ingenious and Sharp-wit<g ref="char:EOLhyphen"/>ted: But have with as much perſpicuity and plainneſs as poſſible I could, run through every particular; and have the more enlarged thereon for the facilitating the ſame, and ſuiting it to the Capacity of the meaneſt Sailer, who may be concerned herein: I have likewiſe endeavoured to leave nothing doubtful and ambiguous; to the end, that all Seamen and others, might plainly perceive the drift and ſcope thereof. And that it is not a meer Project or a fallacious Invention, as many may ſuppoſe it to be, before they have well weighed and rightly conſider'd the ſame: But that it is a real Sub<g ref="char:EOLhyphen"/>ſtance, and that which if practiſed muſt neceſſarily tend to the Honour and Welfare of the Nation in general, and in particular, to the Eaſe, Benefit and Satisfacti<g ref="char:EOLhyphen"/>on both of Merchants and Seamen, which latter if encou<g ref="char:EOLhyphen"/>raged as they ought, together with our Ships of War, may not unfitly be called the Impregnable Fortreſs and Safety of Their Majeſties and Their Dominions. But that I may likewiſe indulge thoſe Palates, who ſavor
+<pb n="43" facs="tcp:43797:22"/> not Prolixity in matters of Diſcourſe; I ſhall be as ſuc<g ref="char:EOLhyphen"/>cinct and brief as I can, in enumerating the Heads of the ſeveral Advantages, which the preceeding Me<g ref="char:EOLhyphen"/>thods treats of; and alſo the Grievances and Diſadvan<g ref="char:EOLhyphen"/>tages, which thereby will be removed.</p>
+               <p>
+                  <hi>Firſt,</hi> It would be needleſs to recount the number of Men of War loſt theſe five Years paſt, it being a thing too well known in <hi>England:</hi> But how and which way, and by what means the greateſt part of them have been loſt, is not obvious to every one. Therefore to ſatisfie (in ſome meaſure) the Curioſity of thoſe who deſire to know the ſame, it's believed, and without gain-ſaying, muſt be allowed to be chiefly for want of competent Numbers of Able and Willing Seamen on Board them: For 'tis evident, that ſeveral of our Ships of War have been ta<g ref="char:EOLhyphen"/>ken of late Years, without loſing a Maſt or Yard, which was not ſo formerly: If theſe things had hapned through the Neglect or Cowardize of the Comman<g ref="char:EOLhyphen"/>ders, that would ſoon have been diſcover'd and blaz'd abroad; which ſince it appears not to be ſo with ma<g ref="char:EOLhyphen"/>ny of them, it muſt neceſſarily follow, that 'tis for want of Able Seamen on Board (except where they <note place="margin">Want of our Ships well Man<g ref="char:EOLhyphen"/>ned the cauſe of many being taken.</note> have been over-power'd, which hath been but now and then) And can we think our ſelves diſintereſſed and hurt, if we leave off an old Road, which we follow as it were for Faſhion-ſake only, to comply with ſuch Rules and Methods, as will undoubtedly, with eaſe and little Charge, procure a competent Number of able and rugged Sailers (inſtead of <hi>Sha<g ref="char:EOLhyphen"/>come-filthies, Ragga-muffings</hi> and <hi>Serovies)</hi> to Man the King's Ships withal, at a very ſhort warning; where<g ref="char:EOLhyphen"/>by Fifty Ships then, will be more Serviceable than One Hundred now: Beſides, the <hi>French</hi> will then find, that they muſt pay the beſt Price for what Ships
+<pb n="44" facs="tcp:43797:23"/> they take, and that Men of War will not be ſo eaſi<g ref="char:EOLhyphen"/>ly parted with, as of late they have been.</p>
+               <p>
+                  <hi>Secondly,</hi> When we are thus provided, and at a cer<g ref="char:EOLhyphen"/>tainty to have Seamen when they are needed, the King may lay up the great Ships for the Winter Sea<g ref="char:EOLhyphen"/>ſon, <note place="margin">Much Mo<g ref="char:EOLhyphen"/>ny to be ſa<g ref="char:EOLhyphen"/>ved by pay<g ref="char:EOLhyphen"/>ing and diſ<g ref="char:EOLhyphen"/>charging Men from the great Ships at Winter.</note> and diſcharge the Men out of Pay and Victu<g ref="char:EOLhyphen"/>als, but with their Mony in their Pockets, and liberty to ſerve in Merchant-Men, 'till 'tis their turns to go on Board again (which now can't be done; becauſe for want of Methods, we know not how or which way to get them again, or others in their room at Spring) and how many Thouſand Pounds in this very thing would be ſaved Yearly, on the Nations Account, eve<g ref="char:EOLhyphen"/>ry intelligent Man, but more eſpecially thoſe who are concern'd in the Navy Affairs, may judge.</p>
+               <p>But ſome may object, that the Regiſtring of Seamen will be an abrogating their Liberties, <hi>&amp;c.</hi> To this it may be anſwer'd, That were it really an Encroach<g ref="char:EOLhyphen"/>ment upon the Property of the Subject, (which I can't ſee how it is) yet the neceſſity of uſing theſe Me<g ref="char:EOLhyphen"/>thods, or the like, at this time would ſufficiently plead its Excuſe: And a deſperate Wound muſt have the moſt ſearching and moſt probable means applied thereto for its Remedy.</p>
+               <p>
+                  <hi>Thirdly,</hi> The Regiſtring Shipwrights, Caulkers, Rope<g ref="char:EOLhyphen"/>makers and Sailmakers, will in no wiſe be hurtful to <note place="margin">
+                     <hi>Benefit by Regiſtring Seamen, Caulkers,</hi> &amp;c.</note> any; for having a ſufficient Number of them at all Calls, the Ships and Yards may be ſupplied therewith with<g ref="char:EOLhyphen"/>out Preſſing. There may likewiſe be more Ships bu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lt in the King's Yards, than now are, which always out-do thoſe built in Merchants Yards. There may alſo be more Cordage made there than is uſual, which every thing conſidered, is always the beſt and cheapeſt;
+<pb n="45" facs="tcp:43797:23"/> and many other Advantages will ariſe, which are now unthought of.</p>
+               <p>
+                  <hi>Fourthly,</hi> The Enemy has found the advantages of Regiſtring their Seamen, thereby fitting out and Man<g ref="char:EOLhyphen"/>ning their Ships with more than an imaginable di<g ref="char:EOLhyphen"/>ſpatch; as I my ſelf, whilſt a Priſoner there, obſerv'd; Though at treble the Charge of what we ſhall be at for one fifth part of the Number of Seamen, we have in <hi>England;</hi> it being plain and apparent, to all thoſe who have uſed the French-Trade, that we have five times more Merchant Ships (which are accounted a Seminary for bringing up Seamen) than the <hi>French</hi> have, and that ours are bigger than theirs; ſo that in all likelihood we muſt have five times as many Sea<g ref="char:EOLhyphen"/>men.</p>
+               <p>
+                  <hi>Fifthly,</hi> As for their Charge in Regiſtring Seamen, <note place="margin">
+                     <hi>Our charge in Regi<g ref="char:EOLhyphen"/>ſtringmuch inferiour to the</hi> French.</note> that conſiderably exceeds what ours will be in this: For their Intendants, which are the chief Officers con<g ref="char:EOLhyphen"/>cern'd therein, have each of them ſome Thouſands a Year, and the Inferiour Officers, which are very nume<g ref="char:EOLhyphen"/>rous, Sallaries proportionable: Whereas Four Hundred Pounds apiece, is what is propoſed for our chief Offi<g ref="char:EOLhyphen"/>cers concern'd herein, and One Hundred Pound for the chiefeſt Clerks, of which only thoſe in <hi>London</hi> will be Sharers. And 'tis my Opinion, that we need not be a<g ref="char:EOLhyphen"/>ſhamed to practiſe thoſe Methods, which will undoubt<g ref="char:EOLhyphen"/>edly be effected with much leſs trouble, difficulty and charge, than what the Advantages which will flow from thence, will make good and anſwer for.</p>
+               <p>
+                  <hi>Sixthly,</hi> In the beginning of the War many Volunteers came into the Service, as particularly from <hi>Briſtol, Lyn</hi> and <hi>Weymouth,</hi> whence they came by Forties, Fif<g ref="char:EOLhyphen"/>ties and an Hundred in a Gang; the greateſt part where<g ref="char:EOLhyphen"/>of that are alive, are ſtill in the Service, and the only
+<pb n="46" facs="tcp:43797:24"/> Men which have throughly ſhar'd in the Toils there<g ref="char:EOLhyphen"/>of; but without any more Reſpect or Encouragement than thoſe that were forc'd; which doubtleſs hath been a means of hindring others from following their Ex<g ref="char:EOLhyphen"/>amples. But were the Methods herein contained effe<g ref="char:EOLhyphen"/>ctually proſecuted, and Seamen Times appointed them, wherein they knew themſelves oblig'd to ſerve on Board Men of War; and likewiſe when they might without Interruption go into Merchants Service, and at all times that Encouragement that is due to them, we need not be at any Charge in Preſſing, or keeping Tenders, as now we do; nor ever want brave bold, and undaunted Seamen to Man the Fleet.</p>
+               <p>
+                  <hi>Seventhly,</hi> It cannot but be matter of wonder, to ſee with what Dexterity and Speed the <hi>French</hi> fit out their Ships; and that with one fifth of the Seamen we have in <hi>England;</hi> and how in a few days they are compleatly Mann'd, after Orders given out for the ſame: And I preſume that <hi>Engliſh</hi> Seamen are as <note place="margin">Engliſh<g ref="char:EOLhyphen"/>men as ca<g ref="char:EOLhyphen"/>pable of do<g ref="char:EOLhyphen"/>ing good Service as any Nation if Encou<g ref="char:EOLhyphen"/>raged.</note> capable of doing any Service proper for them, as the <hi>French</hi> can be; and were they Ordered and Encourag<g ref="char:EOLhyphen"/>ed accordingly, might, as formerly, deſerve and merit the Precedency of any others, in Sea-Affairs: But if for want of Courage and Conduct to adventure, and carry on thoſe Methods (which ſeem very reaſonable and alſo very probable to recover the Oeconomy and priſtine Glory of our Fleets; to Animate our Seamen, and as it were, to engage Succeſs on our Side) we ſit as unconcern'd, and will not uſe any means, though never ſo likely for the retrieving the decayed Honour of the Nation; we can't, if we ſuffer thereby, blame any but our ſelves. For what Miſchiefs and Miſeries do fall upon us, are, as it were uſher'd in by our own
+<pb n="47" facs="tcp:43797:24"/> Conſent, if we ſtrive not, to oppoſe and hinder them.</p>
+               <p>
+                  <hi>Eighthly,</hi> The difficulties which may ſeem to attend this Service in the firſt eſtabliſhing and ſetling the propo<g ref="char:EOLhyphen"/>ſed Methods, may make it look with a ſower Face, and
+<note place="margin">Every thing of moment hard at firſt.</note> ſo retard and hinder its going forward, and thereby many may be ſtartled, who otherwiſe ſee nothing but what is reaſonable and needful enough to be practiſed—'Tis true, that in this, as in all other things at the beginning, difficulties will interfere; and 'tis likely e<g ref="char:EOLhyphen"/>nough that the moſt ſignificant and moſt material Under<g ref="char:EOLhyphen"/>takings, for a Publick Good, will meet with the great<g ref="char:EOLhyphen"/>eſt Hardſhips, in its firſt Birth and Infancy; and that 'tis no eaſy matter to put ſome People out of their old Road, though never ſo rugged and uneaſy: But the greateſt Care and Trouble which can befal the carrying on of the fore-going Propoſals, will be in the firſt Year; which being with Diligence, Faithfulneſs and Induſtry (in the Management thereof) paſſed over for ſucceeding Times, 'twill eaſily be done. And that ſufficient amends will be made for the Toil and Fatigues thereof, will not be doubted, (upon mature and deliberate Thoughts) by any, who zealouſly de<g ref="char:EOLhyphen"/>ſire the Welfare and Proſperity of their Majeſties and their Kingdoms. Theſe Methods, if induſtriouſly managed, may in ſome meaſure, run parallel in time with the Poſt-Office, in riſe, growth and perfection; which being known to moſt Gentlemen, I ſhall not ſpeak of it here.</p>
+               <p>
+                  <hi>Ninthly,</hi> If thoſe Methods are followed, we ſhall <note place="margin">Turning over of Sea<g ref="char:EOLhyphen"/>men reme<g ref="char:EOLhyphen"/>died.</note> have that Epidemical Grievance, which ſo much gauls and diſturbs the Seamen removed, namely of being turn'd over from Ship to Ship; which many times de<g ref="char:EOLhyphen"/>lays their being paid, makes them loſe the Benefit and
+<pb n="48" facs="tcp:43797:25"/> Favour of their Commander (of whom, by their Care and Induſtry they have deſerv'd well) by being ab<g ref="char:EOLhyphen"/>ſent from them; and from the quality of a Mate, or Midſhipman, or the like in a former Ship, by being turn'd over to a Captain that knows them not, are re<g ref="char:EOLhyphen"/>duc'd to go afore the Maſt; and how any Perſon of Senſe or Courage can brook this, I do appeal to every ſober Mans-Judgment.</p>
+               <p>
+                  <hi>Tenthly,</hi> Altho 'tis propoſed, that Seamen be left to their liberty at the end of the firſt Year or there<g ref="char:EOLhyphen"/>abouts, after they are Regiſtred; yet 'tis not to be <note place="margin">Many Sea<g ref="char:EOLhyphen"/>men will continue in the Service notwith<g ref="char:EOLhyphen"/>ſtanding the Liberty propoſed.</note> doubted, but that many will ſtill continue in the Ser<g ref="char:EOLhyphen"/>vice, who might be relieved from it according to the Propoſals, and that out of Reſpect to their Comman<g ref="char:EOLhyphen"/>ders; and many who are at liberty will then have the freedom to go with thoſe Commanders whom they moſt affect; whereby Commanders and their Men being uni<g ref="char:EOLhyphen"/>ted by a free Choice (for no Captain can well refuſe a Perſon that voluntarily offers his Service under his Command) will then carry ſuch an harmony of Af<g ref="char:EOLhyphen"/>fections amongſt one another, that there will be great reaſon to hope for Succeſs in all their Undertakings, according to that Maxim, <hi>Force united is ſtrongest:</hi> And further, by theſe Methods and Agreements amongſt Seamen and their Officers; Preſſing, that Scarecrow and Bugbear to many Men, will be out of Faſhion, and the vaſt Charges and Inconveniencies attending the ſame, be utterly removed and expell'd.</p>
+               <p>
+                  <hi>Eleventhly,</hi> Then there is another thing, which if con<g ref="char:EOLhyphen"/>firmed, will encourage the Seamen to continue in, and alſo prize and value the Service; it being reported that the Lords of the Admiralty do intend to prefer none to be Warrant-Officers, but ſuch as have actually and
+<pb n="49" facs="tcp:43797:25"/> ſucceſſively ſerved Three Years in the Men of War: Which will ſtimulate and provoke many Seamen to put themſelves forward; a likelihood of Preferment, be<g ref="char:EOLhyphen"/>ing of more force to draw ſome, than the Whip to drive others into the Service.</p>
+               <p>Having touched upon ſome Heads, more particularly relating to Their Majeſties and the Seamen; I ſhall add a few words concerning the Merchants Circum<g ref="char:EOLhyphen"/>ſtances, and ſo conclude.</p>
+               <p>
+                  <hi>Firſt,</hi> In the firſt place, the Merchants have been feelingly ſenſible of the Effects of the War, as the exhauſted Coffers of many (which in the beginning thereof were full) can witneſs, occaſioned chiefly by the great Numbers of their Ships taken by the Enemy
+<note place="margin">Merchants great Suf<g ref="char:EOLhyphen"/>ferers for want of due Methods in getting Sea<g ref="char:EOLhyphen"/>men for the King's Ships.</note> this War: One great Reaſon whereof has been the want of due and proper Methods for the procuring Able Seamen, who ſhould be in readyneſs at a very ſhort Warning to Man the King's Ships: For notwith<g ref="char:EOLhyphen"/>ſtanding all the Circumſpection and Care imaginable of the Lords of the Admiralty, for the due ordering of Ships to Sea, both Convoys and Cruizers; yet if Men can't be gotten, the Ships muſt lie ſtill. But by theſe Methods a ſufficient number of Seamen may be at all times ready; whereby Cruizers and Convoys may be abroad, and to and again at Sea, to prevent the Enemy from ſo often making a Prey of our Merchant-men, as of late they have done.</p>
+               <p>
+                  <hi>Secondly,</hi> In the ſecond place, the exorbitant Wages which the Merchants muſt give, and ſtill are obliged ſo to do, or all muſt lie ſtill, have been a Pull-back to many of them; And the want of Men (for fear of being preſt from them) notwithſtanding the offers of great Wages, has many times retarded the Pro<g ref="char:EOLhyphen"/>ſecution
+<pb n="50" facs="tcp:43797:26"/> of their deſigns, to almoſt the overthrow of their Voyages.</p>
+               <p>
+                  <hi>Thirdly,</hi> Many other Inconveniences and Enormities have flow'd in upon them, of which themſelves are the moſt competent Judges and the beſt Remembran<g ref="char:EOLhyphen"/>cers; all which Grievances and Sufferings, or moſt part thereof, by the propoſed Methods, might (for the future) be prevented. The Merchants likewiſe might negotiate their Sea-affairs, without interruption, or
+<note place="margin">Wages in Merchants Ships likely to be brought lower.</note> hazard of having their Men taken from them, when once Shipt and willing to ſerve them: And the exor<g ref="char:EOLhyphen"/>bitant Wages, given now, would then be brought down, and many other Inconveniences removed, which now they labour under: But would be glad of a Remedy for them.</p>
+               <p>
+                  <hi>Fourthly and Laſtly,</hi> That the conſideration of the fore<g ref="char:EOLhyphen"/>going Propoſitions and Methods, being humbly and timely offered to the Parliament, and by them approv<g ref="char:EOLhyphen"/>ed, ſome of the Effects thereof may be experienced in the next Summers Service.</p>
+               <p>
+                  <hi>Object.</hi> But ſome may object, That if this had been done in the beginning of the War, it had been of ſome Moment, and might have done good Service; but now 'tis hardly worth while to ſet it on foot, a Peace being expected in little time; and that the War in all probability can't hold out much longer.</p>
+               <p>
+                  <hi>Anſw.</hi> To this it may be anſwered, That as to the duration of the War, that's very uncertain; and <note place="margin">The want of theſe Methods on the like not practiced ſooner, no reaſon to hinder their pro<g ref="char:EOLhyphen"/>greſs now.</note> that it may continue longer than is expected by many People, is likely enough: However, becauſe ſo neceſſary and advantagious a deſign as this, (if practiſed) may prove to the Nation, has been hitherto unthought of; yet in my Opinion that's no convincing Argument for to fruſtrate its being put in Execution now; ſince we
+<pb n="51" facs="tcp:43797:26"/> know not how long or how little while the War may laſt. But admit a Peace do in little time enſue: We can't be ſorry, that we have no Occaſion to uſe theſe Methods, if the War continues: We have no reaſon to be offended that a way is found out, to ſave a very conſiderable ſum of Money, which is ſpent in Preſſing and other Services; and to have able and rugged Sailers ready on all emergencies to Man the Fleet as it ought; whereby the <hi>French</hi> Kings Fleet will be more likely to be decreaſed, than increas'd by ours.</p>
+               <p>I remember, that when we had Wars with <hi>Holland;</hi> nay, not long before the beginning of this War; The Seamen ſeem'd deſirous to have Wars with <hi>France,</hi> and would be often boaſting what they would do, and how ready they would be to fight the <hi>French.</hi> But now we find the Caſe much alter'd, and as much, if not more difficul<g ref="char:EOLhyphen"/>ty now than ever to Man our Fleet; and likely to grow worſe and worſe, if not timely prevented by proper Me<g ref="char:EOLhyphen"/>thods for the ſame: And if thoſe are not thought ſuffici<g ref="char:EOLhyphen"/>ent and perfect enough (the Examination whereof I humbly commit to the unbyaſs'd Judgments and candid Cenſures of thoſe who are zealouſly deſirous of the Na<g ref="char:EOLhyphen"/>tions Intereſt) yet, I preſume, here is a Foundation for a more well compos'd and nobler Structure, than what my Skill or Pretenſions will reach to; which being built upon for the Nations Intereſt, by the Endeavours of any publick ſpirited Perſon, will give the Author as much ſatisfaction and content, as if compleated by himſelf; He having no Ambition of getting himſelf a Name by theſe Undertakings, nor of reaping any Advantage thereby, otherwiſe than as it centers with a National Intereſt.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:43797:27"/>
+            <head>
+               <hi>Books Printed for, and Sold by</hi> R. Clavell <hi>at the</hi> Peacock <hi>in St.</hi> Paul<hi>'s Church-Yard.</hi>
+            </head>
+            <p>THE Reaſons of Praying for the Peace of our <hi>Jeruſalem,</hi> in a Sermon Preached before the Queen at <hi>White-hall,</hi> on the <hi>Faſt-Day,</hi> being Wedneſday <hi>Auguſt</hi> 29. 1694. By <hi>Thomas Comber,</hi> D. D. Dean of <hi>Durham,</hi> and Chaplain in Ordinary to Their Majeſties. <hi>Printed by Their Majeſties Special Command.</hi>
+            </p>
+            <p>A Daily Office for the Sick; Compil'd out of the Holy Scrip<g ref="char:EOLhyphen"/>tures, and the Liturgy of our Church; with occaſional Prayers, Meditations and Directions.</p>
+            <p>The <hi>Pantheon,</hi> Repreſenting the Fabulous Hiſtories of the Heathen Gods, and moſt Illuſtrious Heroes; in a ſhort, plain and familiar Method, by way of Dialogue, for the Uſe of Schools Written by <hi>Fra. Pomey,</hi> of the Society of Jeſus; Author of the <hi>French</hi> and <hi>Latin</hi> Dictionary, for the Uſe of the <hi>Dauphin.</hi>
+            </p>
+            <p>Q. Horatii Flacci Opera; Interpretatione &amp; Notis Illuſtravi: <hi>Ludovicus Deſprez</hi> Cardinalitius Socius ac Rhetor Emeritus, Juſſu Chriſtianiſſimi Regis, in uſum Sereniſſimi Delphini, ac Sereniſſi<g ref="char:EOLhyphen"/>morum Principum Burgundiae, Andium, Biturigum. Huic Edi<g ref="char:EOLhyphen"/>tioni acceſſere Vita Horatii, cum <hi>Dacerii</hi> Notis ejuſdem Chrono<g ref="char:EOLhyphen"/>logia Horatiana, &amp; Praefatio de <hi>Satira Romana.</hi>
+            </p>
+            <p>
+               <hi>L. Annaei Flori</hi> rerum Romanarum Epitome; Interpretatione &amp; Notis Illuſtravit Anna Tanaquilla Fabri Tilia, Juſſu Chriſtia<g ref="char:EOLhyphen"/>niſſimi Regis, in uſum <hi>Sereniſſimi Delphini.</hi>
+            </p>
+            <p>Compendium <hi>Graecum</hi> Novi Teſtamenti, Continens ex 7959. Verſiculis totius. N. Teſtamenti tantum Verſiculos 1900. (non tamen integros) in quibus omnes univerſi Novi Teſt. Voces, una cum Verſione Latina, Inveniuntur: Auctore <hi>Johanne Luſden,</hi> Philoſ. Doctore, &amp; Linguae Sanctae in Academia Ultrajectina Profeſſore Ordinario. Editio Quinta.</p>
+            <pb facs="tcp:43797:27"/>
+         </div>
+      </back>
+   </text>
+</TEI>
